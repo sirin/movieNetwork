@@ -1,0 +1,10 @@
+uçakların inişin hemen öncesinde piste iniş yönü aldıkları son pozisyon
+(bkz: low approach)
+(bkz: auto approach)
+(bkz: final approach fix)
+(bkz: minimum descent altitude)
+türkçe'ye son yaklaşma diye geçmiştir.
+aynı zamanda yönetmenliğini eric steven stahl'in üstlendiği 1991 tarihli bilimkurgu.
+uçakların son yaklaşma aşamasıdır ve piste yaklaşık 4 deniz mili (7.2 km) kala başlar...
+(bkz: airfield traffic pattern)
+(bkz: short final)

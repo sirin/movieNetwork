@@ -1,0 +1,73 @@
+(bkz: tau) (bkz: theta)
+tango (bkz: telsiz alfabesi)
+delphide class prefixi..
+turbo pascal'dan beridir class isimlerinin ba$ina konan ve type definition oldugunu ayirdetmemizi saglayan hungarian notation prefixi..
+ford'un bir araba modeli
+bir cetvel adı olduğunu yazmak bana kısmetmiş..
+grafiklerde sicaklik'in sembolu. ayrica zaman sembolu olarakta gosterilebilir.
+tip (type) için kısaltma
+t-shirt kisaltmasi (bkz: tee)
+t harfi goruldugu uzere "time"'ın bas harfi. foto. makinelerinde enstantane ayarı t harfine getirilip deklansore basılırsa ısık iceri alınır. tekrar basıldığında ısık kesilir.(bkz: b) bu sekilde makinenin ısık alma süresi el ile ayarlanır.karanlık ortamlar icin idealdir.
+ks: sıcaklık.
+esentepede maya'nin sag tarafinda kucuk ama bir dolu sandwich cesidi olan sandwich, salad unlu mamuller dukkani
+s harflerini soylemeyen insanlarin bu harf yerine telafuz ettigi harf
+boston metrosuna verilen isim. train in bas harfi.
+gecici dosyalar icin kullanilabilecek bir kisaltma. (bkz: gecici program ve dosyalara verilebilecek adlar)
+ks. temperature
+ping komutunda sonsuza kadar pinglemeyi sağlayan harf. ping -t "ip"
+elektirik te 3 fazdan biri.diger ikisi r ve s.
+(bkz: doctor t and the women)
+boston'daki metro sistemine verilen kisaltma ad. "the t". green line red line blue line orange line
+(bkz: mg zt t)
+fizik ve kimya problemlerinde küçük yazıldığında zaman, büyük yazıldığında sıcaklık manasına gelen harf. t1, t2, delta t gibi türevleri vardır. bi de x, y ve z den sonra en popüler bilinmeyendir. bu alanda da kendisini k, n, m ve p izler.
+sert sessizlerden biri.
+(bkz: t cetveli)
+(bkz: tt)
+istatistikte örneklem sayısı 30'dan küçükse kullanılabilen bir dağılım türü. "artık tablosu da var. denediniz mi?"
+tablature kısaltması olarak; tapping..
+şık bir imzası olan harf: (bkz: gaylerin nicklerinin t harfiyle baslamasi gelenegi)
+usta ırkı arasında borusu çok moda olan şey.
+debug programında (bk: assembly) trace anlamına gelen komut. belli adresten başlayarak yazılan komutların tek tek veya istenilen sayıda gruplar halinde icra ettirilmesini ve her komuttan sonra registerlerdeki değişiklikleri görmeye yarar. arka arkaya kullanıldığında sıradaki komutlar aynı şekilde işlenir tek başına kullanıldığında cs:ip adresinden itibaren bir tane komut yürütür =segment:offset parametresi kullanıldığında belirtilen adresten başlanır örneğin 0f04:0400 adresinden itibaren 3 komut işletip registerlar içindeki değişiklikleri görmek istiyorsak t =0f04:0400 3 komutunu kullanırız
+boru ses
+(bkz: t-box)
+alfabemizin baştan 24. harfidir.
+(bkz: t sehpa)
+"time to leave/gitme zamanı" anlamına gelen kısaltma. zengin afrikalı amerikalıların south park'a akın etmelerinden rahatsız olan kasaba sakinleri bunu ifade etmek için söz konusu zenginlerin evlerinin bahçesinde tahtadan yapılmış küçük t harfi (bildiğimiz haç) yakarlar. (bkz: ku klux klan)
+(bkz: swiss t)
+(bkz: dördüncü nesil yazar)
+yumuşadığı zamanlarda "d" olan harf. (bkz: p ç t k)
+büyük t, maliye hesap cetveli gibidir. küçük t ise çarmıha gerilen hz. isa'yı hatırlatır bana. bir tarafta para, bir tarafta din.. t gerçekten çok çetrefillidir bu nedenle. para ve din.. t, ruhta fırtınalar yaratır.
+an itibarıyle 3 yıldır sözlüğe yazmayan, ve topu topu sekiz entrysi bulunan dorduncu nesil yazar...
+squash sporunda servis çizgilerinin kesiştiği noktaya verilen isim. (bkz: t yi almak)
+calculus de genel de degisken degistirme islemlerinde atanan yeni degisken.*
+boston metrosu
+tax(es)'in formüllerde kullanılan kısaltması.
+amerikan ingilizcesi'nde kelime sonlarinda ve kelime ortasinda hemen hemen hicbir zaman t olarak okunmayan harf. kelime sonunda araplarin hemzesine benzeten bir sese (ya da sesliyi soylerken kirp diye durmaya) donu$uyor, "what" derken /woa'/ gibi bir $ey diyor insanlar, "it makes me sick" /i' meyks mi sik/ okunuyor falan. (bu durum ozellikle yeni nesilde gozlenebilir) kelime ortasinda, ya da t ile biten bir kelimeden sonra sesliyle ba$layan bir kelime geliyorsa bu t (veya tt), d ile r arasi "flap d" (ben burada ~d kullanicam) diye tabir edilen bir sesle okunuyor. "water" => /woa~dir/ gibi.
+türk alfabesinden def edilmesi önerilmiş bir harftir. zira bu harf açıkça hıristiyan haçını çağrıştırmaktadır. (bkz: t) peki bu harfi def edersek ne kullancağız? tabi ki bu öneriyi yapanlar cevabı da hazırlamışlardır. (bkz: .) örnek olarak: bu harfin .ürk alfabesinden a.ılması gerekir. (bkz: kara kitap) editcan: kardeşim dalgamızı geçiyoruz. bu olay gerçekten anılmaktadır kara kitap'ta sanki ben mi öneriyorum. t de bilidiğin harf işte. allah allah.
+büyük t harfi, şekil itibariyle tuğa benzer. türkçe bir alfabe yapsaydık büyük t aynı kalabilirdi yani. not: a harfinin öküzden gelme durumu: (bkz: alef)
+eskiden televizyonlarda yayınlanan maçlarda önemli anlar tekrar gösterilirken ekranın genellikle sağ üst köşesinde yanıp sönen simge.
+türkçede kullanımı cinsiyetlere göre farklılık gösteren bir harftir. genelleme yapmamakla beraber kızlar t harfini "ts" şeklinde daha çok söylerler. batu=batsu, katı=katsı, parlament=parlaments gibi. erkeklerde ise harfin yutulması daha yaygın olarak görülüyor. patlıcan= pa'lıcan, sü'lü çukulata gibi.. bunla ilgili olarak; (bkz: t harfinin kelime icerisinde kaybolmasi)
+/t/ 4chan'in torrents imageboardu.
+eski türkçede, daha çok göktürk ağzında (bazen uygur ağzında) çoğul eki olan harftir. kana (tüy) --- kana-t (tüyler); bulu (zerrecik) --- bulut (zerrecikler); yigi (iyi) --- yigit (iyiler) vb.
+mandacı bir harftir.
+(ing.) kagit oyunlarinda kisaca onlu*
+t turkiye sinirlari dahilinde cok acayip bir harf, buna iyice kani oldum. memleketin temel dertlerinden birini turkiye, turk, turkiyeli kelimelerini tek harfle kisaltarak halledebiliyorsun. ama ne zaman actin o kisaltmayi ve turk-turkiye-turkiyeli kavramlari arasindaki farki ve bunun yarattigi rahatsizliklari gosterdin o zaman basliyor ortalik karismaya, sacmaligin bini bir para olmaya. iki ornekle inceleyelim: 1. turk silahli kuvvetleri super bir kurum iken turkiye silahli kuvvetleri tu kaka, sacma, sakincali. cozum: tsk 2. turkiye buyuk millet meclisi super bir kurum iken turk buyuk millet meclisi "olur mu lan oyle sey". cozum: tbmm bu kadar cok sayida et beyinliyi tek harfin altinda toplayabilmek cok eglenceli.
+latincede zaman anlamına gelen tempus kelimesinin kısaltması.
+direk-t, kontak-t gibi ecnebiceden türkçeye geçmiş sözcüklerin unutulmuş harfi.
+tayland'ın uluslararası plaka kodu.
+(bkz: mbta)
+yazın ortalıkta dönen iamamiwhoami efsanesinin kanımca en iyi parçasıydı. klibine denecek söz yok zaten, youtube'daki videosunun altındaki yorumlardan birisinde denildiği gibi; en iyi kısım 0:00 - 4:46 arası. şöyle gelin: http://www.youtube.com/watch?v=bw89pv8qrx4
+victor pelevin'in bir romanı.
+elde var hüzün adlı kitabından bir attila ilhan şiiri. geniş şapkalarıyla solgun kadınlar t harfleri midir geceye uzayan korkunç pelerinlere sarınmışlar şehvet tutuşuyor dudaklarından cıgara ateşleri iblis çağrılarıdır büyük serüvenlere ölümün titrediği soğuk bakışları gözlerinizde kalır su yılanlarının içinde serpildiği mahmuzlarında yıldız alıştırırlar çizmeleri neon kıpkızıl yanmış dişiliklerini silah gibi taşırlar nasıl kullanılıyor anlaşılmamış
+dna'daki nükleik asitlerin bazlarından olan timinin sembolüdür.
+mors alfabesinde kullanılmaz.
+mors alfabesindeki karşılığı « - » olan harf.
+thomas jefferson'in dahil oldugu y-dna haplogrubu. agirlikli misirlilardan olusuyor.
+(bkz: t-)
+tantek çelik'in twitter kullanıcı adı (bkz: http://twitter.com/t)
+the sopranos adlı dizideki baş karakterin adının kısaltılmış hali (bkz: tony) (bkz: tony soprano)
+tony sopranoya yakın dostlarının hitap şekli.
+sert ünsüzlerin en babası olduğuna kanaat getirilen harf
+bir vana cesidi
+cetvel olanıyla masturbasyon yapması gerekenleri hatırlatan harf
+bulgaristan'ın eski cuma ilinin trafik kodu.

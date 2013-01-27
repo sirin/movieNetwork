@@ -1,0 +1,7 @@
+pc bilgisayarlarda seri port uart chip uzerinden calisir
+(bkz: serial number)
+ing. sıra halinde, seri.
+ing. dizi (film)
+(bkz: auto-increment/#18597736)
+televizyon sektöründe, tek bir hikaye etrafında dönen dizi türlerine verilen isim. serial'lerde bir bölümü bile kaçırmanız sizi diziden koparabilir. türkiye'deki dizilerin %90 ı serial mantığında çekilir. daha iyisi ve eğlencelisi için: (bkz: series)
+(bkz: cereal)

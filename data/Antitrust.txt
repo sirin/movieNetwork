@@ -1,0 +1,26 @@
+(bkz: anti) (bkz: trost)
+reklam kampanyasinda babasinin el bilgisayarina yaptigi resmi gosterip look daddy diyen zenci veleti gorup koptugumuz film. ayrica o a takimi tribi pek bir rezildi. vasatin alti bir film.
+filmde bir cd yazma sahnesi vardir, oskarliktir direk... zor durumdaki milo otuz saniye içinde iki cd kopyalar, cd writer kullanan seyirciler yarilir... ayrica her islemcinin kullananin yetenegine göre hizlandigini gösteren film... yine de, tomb raider'den daha iyi bi filmdir...
+microsoft ve open source olaylarinin etkisi ile yapilmis, film oldugu icin olaylari abartsalarda, icinde bayaa bi gercek payi bulunan film. filmin kotu adaminin bill gates'e benzemesi de ayri bi olgudur.
+başrollerinde ryan philippe, claire forlani *, rachael leigh cook, tim robbins gibi oyuncuların oynadığı, izlenmesi pek de gerekli olmayan film.
+basrollerde tim robbins,rachael leigh cook ve ryan philippe'nin oynadigi microsoftun gelisimine bir "acaba bole mi oldu lem" dedirten supheli film..
+bilgisayar dünyasının haşinliğini anlatırcasına "death or alive, death or alive" diye diye kafamızda çınlatan, open sourcecu kardeşlerimizin kaçınılmaz zaferini sergilemiş film. tabiki piyasa olmanın verdiği dezavantajla her bilgisayar konulu filmde olduğu gibi abartılar vardır. sıkıştırma algoritmaları üzerinde konuşurken -özellikle şu satır burada çok iyi durmuş! -asıl sen bi de şu satırın güzelliğine bak. gibi dialoglar içermesine rağmen, afiyetle seyredilir. claire forlani her bilgisayarcının* düşündeki kız olmuştur**.
+bu filmi, bütün diğer amerikan filmlerinde olduğu gibi bilgisayar ile ilgili birtakım konular üzerinde yalapşap ve uyduruktan anlatıya sahip bir film olmadığına inanarak izlemeye çalıştım.ancak her 5 dakikada bir ; ki filmin akışı da 5 dakikada bir değişen olaylar silsilesi kurgusuna sahip, bu inancım kayboldu..şöyle ki, her "hede is loading" "hödö is extracting" tarzı uyarı mesajı yine oldukça basit.ancak haklarını yemeyelim, cursor bu sefer konmuş, unutulmamış.ekran direk "enter password" demiyor yani.cd yazma sahnesine ise söyleyecek söz bulamıyoruz.ayrıca uydu bağlantıları ile ilgili sahne de epey fantastik olmuş.bütün bu salaklıklara rağmen film insana "microfo$t, bill amca haha" falan diye bir gülümseme efekti verdirebiliyor.ancak bunun da kötü bir yanı var, tim robbins'e bill gates olarak bakabilirsiniz filmin sonunda.
+(bkz: big brother is watching you)
+windows domainlerinde belirli domainlerin trust ilişkisine girmesini engelleyen utility.
+amerikada kartelleşmeyi engellemeye çalışan yasa.
+anglosakson hukukunda serbest piyasa rekabet kosullari cercevesinde piyasanin fiyat olusumuna karsi davranan sirketleri takip edip onlara cesitli yaptirimlar uygulayan kamu kurulusu (ulkemizde rekabet kurulu olarak kuruldu - amacina yonelik isler yapmaya gayret ediyor)
+en azından içinde kullanılan kod parçaları -işlevsel ya da değil- javadır, gerçektir, küp döndürüp üçgen patlatmazlar, o açıdan severim.
+kanımca her bilgisayar mühendisinin yazılım dünyasındaki şerefsizlikleri görmesi adına kesinlikle izlemesi gereken, insan bilgisi dünyaya aittir sözüyle* olayı bitiren, resmen bill gates'le dalga geçilen, kapitalizmin ve tekelciliğin adeta aşağılandığı, gerek kurgusu gerekse de dumurdan dumura koşturan senaryosuyla pek bir beğendiğim film. hayatımın anlamı olan claire forlani de her ne kadar filmin ortalarında gerçek yüzü ortaya çıkmasına rağmen sonuna doğru yaptığı manevrayla tekrar kalpleri feth etmeyi bilmiştir, gerek bu hareketi, gerekse de saf güzelliğiyle kendisini milyon kere daha aşık etmiştir..
+kaynak kodların yayınlandığı site www skullbocks com olan film
+dün gece seyredip oldukça beğendiğim film. film içinde bill gates'in adının geçmesi; n.u.r.v un linux, gpl cilerin windows kullanması ise filmin göze çarpan noktaları ama; önlem olarak kullanılan bu şeylerle bile film oldukça gerçekçi.
+eski agnostic front ve sheer terror elemanlarından oluşan 80ler hardcore'nu icra eden grup.*
+open source'un fendi monopoly'yi yendi seklinde bir mesaji olan gotten boktan bi film. yukarida zikredildigi gibi gozlukleri takinca superman olan bir boyband kackininin (asil erkek ya yakisikli olmasi lazim) gunluk maceralari... bu filme para vermis geek insaninda aklini skeyim!
+(bkz: game theory)
+türkçe; düzmece.
+son örneklerinden biri olarak coca cola company ve avrupa birliği arasında yapılanı gösterebileceğimiz, kabaca piyasada tekel olmayı önleyen anlaşma
+filmdeki this bussiness is binary you are a "1" or a "0" alive or death, sözü hala beynimde inler telefonumda karşılama mesajıdır.
+daha cok calisan kisilerin daha fazla kazanmasini engellemek amaciyla, genelde sosyal icerikli sebepler one surerek isleme konulan rekabet araci.
+tekelleşmenin, müşterilere zarar vermesini ve işletmeler arası rekabetin zarar görmesini engelemek amacı ile hazırlanmış yasa. general electric ve honeywell birleşmesini engelleyen yasa.
+(bkz: rekabet kurumu)
+filmde patron garry, milo'ya cd ile kod getirir. milo, kodu incelerken parmağını ekrana götürüp "if(buffer[0]=='a' && buffer[1]=='b')" tarzında bir if statement'ı göstererek "yapı mükemmel olmuş. kim yazdı bunu?" der; kopmamak elde değildir. tek güzel yanı rachael leigh cook olabilir. bir de, gerçekçi bilgisayar sahneleri kullanılmış, o açıdan da iyi olmuş.

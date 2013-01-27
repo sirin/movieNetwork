@@ -1,0 +1,24 @@
+debriyaja bastığınızda şanzımanla alakası kesilen motorun hareketini şanzımana ileten büyük yuvarlak şey
+genel olarak butun mekanik sistemlerde, genellikle bir donu$ hareketine iletilen gucun kesikliligini onlemek icin momentum ta$imasi maksatli kullanilan parca.
+(bkz: volan di$lisi)
+ankarada bir volvo bayii
+kadın giysilerinin etek ucu, kol gibi yerlerine, kesilmiş kumaştan yapılan süs.
+uzay istasyonlarında enerji depolamak için kullanmayı düşünüyorlar bunu. şöyle ki güneş enerjisi panellerden alınacak, bir elektrik motoruyla volan döndürülecek, dönüyorsa hızlandırılacak. istasyon dünyanın gölgesine girdiğindeyse motor bu sefer dinamo olarak çalışacak ve volanın hareketini tekrar elektriğe çevirecek. uzayda hava sürtünmesi olmaması ve sıfıra yakın bi yerçekimi gibi avantajlar olduğundan ve akülerin hayvan ağır olup hayvan gibi de yer kaplaması sebebiyle bu çözümün daha çok şansı var gibi.
+salincakta sallanirken hizlanmak icin yapilan harekete volan vurmak denir
+ispanyolca'da ucmak anlamina gelen volar ve onun ucuyor anlaminda cekimi olan volando fiiliyle bir alakasi oldugunu dusunuyorum
+armatürlerin, suyu açmaya kapamaya yarayan parçalarına denilir.
+(bkz: duzenteker)
+bmw nin yeni motorunun adı. 6 serisinde 2. vites ve 2500 devirde 140 km hız sağlıyor.
+voltran'ın esin kaynağı olabilir.
+ingilizcesi: (bkz: flywheel)
+ataleti sağlayan dişli veya dişsiz olabilen makinenin büyüklüğüne göre boyutu değişebilen disk.
+şöyle bir şeyler; http://www.arli.com.tr/
+bildiğiniz "fırfır"a volan deniyormuş tekstil/moda sektöründe. ingilizcesi de flounce imiş. fyi . . .
+kontagi cevirdiginizde mars motorunun cevirdigi sey bu dislidir. kirildiginda veya siyrildiginda tamiri cok zahmetlidir. motorun ve bazen sanzimanin inmesini gerektirir. manuel transmisyonda baski balatanin, otomatik transmisyonda da tork converter'in dibindedir.
+dizel jeneratörlü santrallerde de jeneratör ile dizel motoru arasına konularak, jeneratöre iletilen momentin dalgalılığını azaltır.
+düz vitesli bir otomobil ile kalkış yaparken aracınızda aşırı bir titreme oluyorsa, muhtemelen arıza bu parçadandır. şanzımanınız indirilerek kontrol ve değişimler gerçekleşir. aracına göre değişim gösteren ama genel itibariyle pahalı bir değişim işçilik ücreti vardır.
+kendisinden beklenen tek özelliği ağır olması olan, dönme hızı ile orantılı olarak kinetik enerji depolamaya, motorun aldığı hızla dönmeye devam etmesini sağlayan, renault markasının özellikle clio ve benzeri dandirik model otomobillerinde hiç var olmadığına inandığım motor parçası kütlesine göre motorun devirlenme karakteri değişir: -çok ağır olursa motora gaz verdiğinizde yavaş hızlanır ama devir yükseldiğinde de hayli fazla kinetik enerji depolayacağı için aracı kaldırırken motor devri birden düşmez, sarsılmaz, rahat, konforlu ve gaz-debriyaj ayarına gerek bile kalmadan pamuk gibi bir kalkış yapılabilir. -çok hafif olursa da motor çok daha çabuk devirlenir ama üzerinde az haraket enerjisi depolanacağı için kalkışta ayağınızı debriyajdan çekerken devir küt diye düşüverir, aman diye gaza basarsınız fırt diye devir yükselir, motor ciyaklayınca debriyajı biraz daha bırakırsınız, devir yine küt diye düşer, bu arada araba da öne doğru atlaya zıplaya bir kalkış yapar, ayağınız alışana kadar onlarca kez stop ettirirsiniz, acemi şöför muamelesi görürsünüz. araba alırken "bunun volanı kaç kilo?" diye sorulmalıdır
+hidroelektrik santrallerde de zaman zaman karşımıza çıkan ve ani basınç yükselmelerinde veya azalmalarında (negatif ve pozitif su darbelerinde) rotorun zarar görmesini engelleyen ekipman. genelde bu sistem, denge bacası (surge tank) yapımı çok zor olan veya çok maliyetli olan hidroelektrik santrallerde kullanılmasına rağmen; hem elektromekanik maliyetini hem de santral binası inşaat maliyetini ciddi oranda arttırmasından dolayı pek tercih edilmemektedir.
+volan'lı bir elbise örneği: http://img394.imageshack.us/…4/6397/81549807mw1.jpg
+(bkz: dmf)
+kendisinden beklenen tek özellik ağır olması değildir, volanın davranışını belirleyen eylemsizliğidir (bkz: inertia). kütle burada yardımcı oyuncudur. şu bilinmelidir ki volanın sahip olduğu atalet momenti, krank mili, debriyaj ve şanzımandan çok daha fazladır. bu yüzden motorun karakteristiğine göre volan belirlenir. clio ve benzeri araçlar küçük hacimli motorlar ile donatılmış ve performanstan ziyade ekonomik motorlara sahip oldukları için motor düzensizlikleri kritik seviyelerde değildir. bu araçlara yüksek kütleli volanlar monte etmek aktarma organlarının ağırlığını ve dolaylı olarak araç ağırlığını gereksiz yere arttırmaktır. ekonomi beklediğiniz araçta ağırlığı arttırmak abes akaçacaktır. ayrıca aracı alırken bunun volanı kaç kilo diye sormanız bu sebeple hiçbir anlam ifade etmeyecektir, sorulması gereken soru bunun volanının atalet momenti kaç kg/ms2 olmalıdır. tabi bu soruya cevap alabileceğiniz bir satış ofisi bulabilirseniz haberim olsun.

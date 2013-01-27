@@ -1,0 +1,25 @@
+iki bit'in de 1 olmasi durumunda 1 sonucunu veren logical operand.
+"kasagi, falaka, kara mermer, ilk dua, perili kosk" diye uzayip giden ve omer seyfettin antolojisi olmaya aday bir cocuk sarkisinin giris kelimesi. hikaye gonende gecer ve yanilmiyorsam olumsuz giris cumlesi olan "ben gonen'de dogdum" u da icerir. konu kisaca soyledir omer ciliz bir cocuktur, mahallesinden mistik namli gurbuz bir cocuga blug cagi oncesi homoseksueliteye varan bir ilgi duyar. mistik da omer e karsi bos degildir. gotik bir ayinle dostluklarini percinlerler, ne var ki kuduz bir kopek bu durumdan hic de hosnut degildir. olaylar gelisir.
+0 and 0 => 0 0 and 1 => 0 1 and 0 => 0 1 and 1 => 1
+andromeda takımyıldızı'nın kısaltması.
+(bkz: andromeda)
+yemin. yemin etmek: "and icmek"
+bir içki (bkz: and içmek)
+(bkz: cerro torre)
+&
+& = ampersand
+logic devre elemanı (bkz: or) (bkz: nand) (bkz: nor) (bkz: xor) (bkz: daha gider bu)
+andorra'nın uluslararası plaka işareti.
+alakasız iki cismi cümle içinde bagdastirici bağlaç
+eski ingilizcede, "ond" olarak kullanılan ve orjinal anlamı "bunu müteakip, bundan sonra" olan kelime, proto germen dillerinde "unda" olarak kullanılmış olup, latince "ante" ve eski yunanca "anti" kelimeleri ile de akrabalığı mevcuttur.
+"eeiiiiiiiiiiyyenndddddd" seklinde telaffuz edildigi oluyor bu ingilizce kelimenin. peki biz napiyoruz? yogayi terapiyi siktirediyoruz, direkt giriyoruz mermer blokla. doyasiya.
+kıt kanaatimce tayga grubunun en iyi parçasıdır... o kadar kolaymis sanma elbet bir gün gelecek o zaman sen olmayacaksin..! her gecen gün ve anda biraz daha eriyip yok olup gideceksin..! ne emdigin kanlarin, ne de aldigin o ruhlarin hesabini sordular..! sira geldi bizlere, hayatlari bogmaya emdigin kanlarin içinde..!! sen ne zannetmistin yarina kalir bunlar bu kara sabahin içinde.. iste o gün geldi..! bize ettigin ihanetin hesabini vermeye..! kan dökmek bir an için bile varolmak demek degilse de yildizlar uzansa göklere yön verse savasci bizlere.. son bir kez yine..
+"&" olarak php, asp, html gibi pek cok dilde her bir function parametresini belirtmek icin kullanilan seperator.
+kan kardeşliği ve daha çocuk yaşta birbirini korumayı (arkadaşı için kuduz köpeğin önüne atlamak gibi) anlatan ömer seyfettin hikayesi
+kutsal olarak kabuş edilen şeylerin tanık tutularak söz verilmesi . and içmek;moğollarda iki ayrı boydan gelen kişilerin birer damla kanlarını karıştırdıkları şerbeti içmeleriyle aralarındaki antlaşmayı kesinleştirmeleri geleneğinden kaynaklanmaktadır.
+(bkz: andorra)
+(bkz: and dağları)
+bir devreyi açıp kapama (on/off) fonksiyonunu yerine getirebilecek mantık kapısıdır. örneğin ismi a olan bir girdi (input) sinyalimiz olsun. bir adet de e (enable) sinyalimiz devreyi açıp kapamakla görevli olsun, devrenin hemen önüne bu 2 sinyali and (ve)'lerseniz, eğer e sinyali 0 durumundaysa, a ne olursa olsun devreye bir girdi olmayacak, ama eğer e sinyali 1 olursa, devreye girdi a sinyalinin durumuna göre değişecektir.
+(bkz: allow natural death)
+anderson bölgesel havalimanı'nın iata kodu..
+ömer seyfettin'in arkadaşlık ve fedâkârlık temalı güzel bir hikâyesi.

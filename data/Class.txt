@@ -1,0 +1,12 @@
+1.nesne turetilebilen bir dosya. (bkz: programcilik) 2.akranlarindan ayrilan ozelikleriyle sivrilen takdir edilen hatun kisi. (bkz: class kari)
+(bkz: sınıf)
+bir araya gelince oop oluşturabilen dosyalar. örnek : bir class diğer class'a demişki " gel seninle beraber bir object oriented program yapalım mı?"*
+1983 yapımı rob lowe, jacqueline bisset, andrew mccarthynin rol aldığı romantik komedimtrak gençlik filmi. cnbc-e nin tam da 19 mayıs gençlik bayramında bu filmi yayınlamasının bir anlamı yoktur eminim, yani umarım. hani gençlere bir mesaj verelim dediyseler pek uygun bir film değil. benim bile kafam karıştı. şimdi insan arkadaşının annesi ile yatmamalı evet , kötü bir şey. ama izlerken hiç de kötü görünmüyordu valla.
+rob lowe ve andrew mccarthy'nin yanısıra genç bir john cusack izlediğimiz, 80'lerin masum atmosferinin her karesinde hissedildiği gençlik filmi.
+programcılıkta bir nesne oluşturmak için gerekli olan bilgileri içerir. bahsi geçen bu bilgiler bir properties,method,event vb.. şeylerdir. bir benzetme yapacak olursak mimarların çizdiği bina planları sayesinde inşaa edilen binalar dır. projeler classlara binalarda onlardan elde edilmiş objelere karşılık gelecektir.
+1983 yapimli filmde virginia madsen de oynamistir. hatta zamaninda gencler arasinda favori olmasini saglayan da bir sahnesi vardir.* *
+ing. bir okulda aynı sınıfa gidenlerin bütünü, belirli bir yılda mezun olacak/olmuş olan kişiler. örn: class of 2005 : 2005 mezunları class of 2010 : 2010'da mezun olacak olan güruh
+romen elektronik müzik grubu. 2007 tarihli infinit adli albümleri ve bu albümlerinden castel de nisip ile ocean in desert diye iki güzel sarkilari var.
+(bkz: constructor) (bkz: abstract class) (bkz: final class) (bkz: static class) (bkz: dynamic class) (bkz: this) (bkz: extends) (bkz: design patterns)
+nesne yönelimli programlarda * dillerinde nesnelerin özelliklerini, davranışlarını ve başlangıç durumlarını tanımlamak için kullanılan şablondur.
+yazılım yapanların buyurun burada yapılmışı var deme şeklidir bir nevi. sıklıkla yazılım hayatımızı kolaylaştırdığı doğrudur ancak bazen o kadar iç içe geçmiş oluyorlar ki işin içinden çıkmak saatlerinizi alıyor.

@@ -1,0 +1,1 @@
+genellikle winzip ile açılan .zip'lerin oluşturduğu klasörlerin ve dosyaların bulunduğu klasör.. temizlemesi en kastıran klasörlerden biridir.

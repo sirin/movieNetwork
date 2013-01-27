@@ -1,0 +1,9 @@
+linus torvalds in ilk filmi, windows linux kapismasini anlatan bir film
+http://www.revolution-os.com/
+linus torvalds, richard stallman, bruce perens, eric s. raymond, brian behlendorf, michael tiemann, larry augustin, frank hecker ve rob malda'yla yapilan roportajlarin bir derlemesi. bir nevi free software belgeseli.
+dvd'si encryption ve region korumasi olmaksizin(css encryption free ve region free) sati$a sunulmu$ ama neden sati$a sunulmu$, oldu olacak onu da gpl'le dagitsalarmi$ (bkz: bu ne perhiz bu ne lahana tur$usu)
+richard stallman'in ustune bastira bastira gnu linux terimini kafaya yerlestirdigi belgesel. icinde linus torvalds ve richard stallman'in ayni anda ciktiklari bir konferans sahnesi var ki free software-open source olayinin gidisati konusunda soru isaretleri yaratmadi degil.
+kimse alınmasın ama, richard stallman hariç, freak show gibi belgesel resmen.
+--- spoiler --- eric s. raymond, bir gün asansörde elinde microsoft çantası olan biriyle karşılaşır ve sorar ; - oh , i see you work for microsoft ? - ohh, yeah, what do you do ? - i m your worst nightmare.. --- spoiler ---
+en buyuk eksisi eric raymond gibi bir dallamayi konusturmak olan belgesel. yoksa gayet iyi. bu alanda yapilan cok az islerden biri.
+film 2001'de çıktığı için o günler hala server piyasasının %70'i windows'un elindedir. lakin son 9 yılda o köprünün altından epey sular akmıştır. bu yüzden biraz eski bir film denebilir. düşünün ki filmin çekildiği tarihte ubuntu gibi harika bir distro yoktu bile. her şeye rağmen güzel bir film, her developer izlemeli.

@@ -1,0 +1,67 @@
+forward momentum
+frequency modulation bir yere ulastirilimak istene ses sinyali, tasiyici bir sinyal uzerinde, frekans degeri kodlanarak ulastirilir.. alicilar bu kodlamayi decode ederler ve biz bilmemne fm'leri dinleriz.. am'e gore daha iyi sonuc verirler, tv'lerde duydugumuz sesler bu modulasyon tipinde tv'lerimize gelmektedir.. ve tabi ki fm kanallar.. (bkz: modulasyon) (bkz: am) (bkz: pcm)
+fen-matematik bölümü..
+ks: fax modem
+(abbrv.) fucking moron
+düğün arabasının arkasında yazan harf birlikteliği..
+nurettin sozen zamaninda belediyenin bir kanali vardi. bunun radyosu acildiginda radyo frekansini televizyondan 'bi$ey bi$ey feme' diye vermi$lerdi. turkceye olan saygilarindanmi$. yabanci iki kelimenin kisaltmasini turkce soylemek neyin saygisidir ne geyigidir
+female male
+hayatıma yavuz aydar ve şebnem savaşçı sayesinde girmiş, evdeki radyo sadece kısa, orta ve uzun dalgaları aldığı için hergün saat altıda bizim arabanın radyosuna yazılmama ve babamdan "aküyü bitireceksin yahu" şeklinde fırçalar yememe neden olmuş kavram. stüdyo efem derlerdi program başlarken, ben de "bu kadar yabancı müzik çalan bir programın adı neden efe sözcüğünden türemiş olsun ki alla alla?" şeklinde meraklar duyardım. belki de o zamanlar alpayın efem adlı bir plağının* evde bulunması buna sebep olmuştu ki o ayrı konu... (bkz: konuyu dallandırmak budaklandırmak)
+(bkz: efem)
+efendimin kısa söylenişinin chat diline aktarılmış yazımı
+(bkz: fox mulder)
+ks. full moon
+f büyük, m küçükse fa minör.
+ks. fan marker
+tatlısu da bulunan bir bar.
+ks. finans muhendisligi
+(bkz: fen bolumu ogrencileri)
+(bkz: nikon fm)
+tatlisuda bulunan bir bar. her daim enver abiyi gorebileceginiz ve zeki abinin muziklerini yaptigi yer.
+(bkz: futbol mundial)
+şapşahane bir steely dan paaaçasıdır* aynı zamanda 1978 tarihli, bu isimde bir de film bulunmakta ve şarkı bu soundtrackta da yer almaktadır.
+amplitude modulationa tercih edilmesinin sebebi sinyal gönderilirken bütün signal powerının kullanılabilmesine olanak vermesidir. am de ise tüm powerın ortalama %60 ı taşıcı signal tarafından harcanır bu da bir nevi boşa giden power olmaktadır.
+radyo yayinlarinda am'e gore daha cok tercih edilen modulasyon ce$idi. muzik, haber ve hede yayin frekansi 87.5 ve 108 mhz (m ve h buyuk) araliginda bulunur. (bkz: am)
+(bkz: fazlamesai.net)
+(bkz: fm no static at all)
+ses frekans sinyaline bağlı olarak radyo frekans sinyalinin frekansını değiştirme işlemi. (bkz: frekans modülasyonu)
+ks. freshmeat
+ters bir kalp içinde aynı anda hem feminen masküleni hem frankie morelloyu sembolize eden kısaltma. fashion tvnin verdiği defileleri en sistematik haliyle manken tematiği yaparakar vermesinden muzdarip bünyelere iyi gelen bir şahsiyet kendisi.
+(bkz: fergan mirkelam)
+(bkz: football manager)
+frekans modülasyonu, ilk kez birinci dünya savaşı esnasında alman bir binbaşı tarafından telsiz haberleşme amaçlı kullanılmış. binbaşı, "deli" olduğu gerekçesiyle hapise atılmış.
+vakti zamanında dutluk iken* askerler tarafından haberle$me icin kullanılan banddır.
+kis. frekans modulasyonu. 1933'te edwin howard armstrong tarafindan icat edilmistir.
+(bkz: fizik muayene)
+(bkz: last fm)
+"football manager ne ola ki?" diye dolaştığım zamanlardan birinde, futbol delisi bir arkadaşımın başından kalkamadığını görünce, f harfi için başta bir açılım getirmede başarılı olamayıp, önceki en meşhur oyun olan championship manager ile ilişkilendirmeyi bir an düşünerek "fampionship manager" olarak çevirdiğim, dilimde bu şekilde yapışıp kalmış oyunun kısaltmasıdır efendim.
+bir zamanlar radyo alırken olup olmamasını sormak zorunda olduğunuz band. almancası ukw idi sanırsam..bazı radyolarda fm yerine ukw yazardı.
+mikronezya'nın uluslararası koduymuş aynı zamanda. öyle bir ülke varmış, evet..
+(bkz: freemason)
+türkçede sıklık kiplenimi de denebilir.* "fm / frekans modülasyonu'nun özellikleri: 1. modülasyon anında, taşıyıcının frekansı değişir, genliği ise sabittir. 2. modülasyon anında çok sayıda kenar bandları oluşur. 3. bw, modülasyon faktörüyle değişir. 4. f-m vericiler, a-m vericiler gibi çok güçlü değildir. 5- f-m 'de önemli olan sesin bozulmadan en uzak mesafelere gönderilmesidir. sesin kalitesi yüksektir, stereo yayın yapılabilir. 6- f-m yayınları almak için bir antene ihtiyaç vardır. 7- f-m alıcılarda ara frekans değeri 10,7 mhz.dir. 8- modülasyon faktörü genellikle l 'den büyüktür. 9- modülasyon sinyal frekansının yükselmesi, taşıyıcı frekansının değişme hızını arttırır. 10- modülasyon sinyal genliğinin büyümesi, taşıyıcının frekans değişme sınırını genişletir."
+kayıtlı okur.
+taşıyıcı işaretin frekans bilgisinin mesaj işaretinin integraline göre değiştiği modülasyon çeşidi. frekansı modüle edilmiş bir işaretin frekans spektrumunu çizmek pek kolay değildir. o yüzden (bkz: bessel fonksiyonları)
+(bkz: freddie mercury)
+am kelimesini duyunca aklıma attacking midfielder'ın gelmesini sağlayan oyundur birçok ilişkinin bitme sebebi olmasına şaşmamalı
+(bkz: fantasy masters)
+ks. frontier markets
+(bkz: field manual) (bkz: sahra talimnamesi)
+frekans modülasyonu denen yöntem, bir taşıyıcı(carrier) ve bir de evirici(modulator) sinyal içerir. taşıyıcı sinyal, evirici sinyal tarafından değiştirilir. bu yöntemi kullanarak ses üreten ilk aleti yamaha üretmiştir(bkz: gs1) operatör sayısına göre üretilen sesin zenginliği artar. programlaması zordur.
+junior boys'un 2006'da cikardigi so this is goodbye albumunden pek bi keyifli parca. * let's leave tonight one last time before it gets to cold just one more round in that tourist town with another home for sale and then one more year becomes one more year and you'll forget me soon i fear through the crooked roads and the static codes on the hotel radios [missing]... broken down again [missing]... so still around .... from the rain [missing]... and it won't play [missing]... till you say you're ok and the motor starts it's cold and vicious heart moves me close to you each day and when i arrive my god you'll be surprised of all the lines that changed and one more year becomes one more year and lights become less clear so let's meet the road tonight we'll drive back home forget the hotel radios [missing]... broken down again [missing]... so still around .... from the rain [missing]... and it won't play [missing]... till you say you're ok
+(bkz: foreign minister)
+portekiz'de üretilen bir sigara markası.
+bir ingiliz komedi dizisi. the it crowd dizisinden tanıdığımız chris o'dowd oynuyormuş. bir radyo istasyonunda geçen bir sit-com. çok komikmiş, izleyenlerin yalancısıyım. ilk sezonu yayınlanmış, 6 bölüm tabii. ünlüler de konuk oluyormuş diziye. http://www.itv.com/entertainment/comedy/fm/
+şubat sonuyla nisan başı arasında 6 bölüm çekilip (ingiliz sitcomlarının bir sezon için ideal bölüm sayısı) ilk sezonu kapatan dizi. dizi genel olarak bir radyo istasyonundaki djler ekseninde geçerken, bir sürü müzisyen gerek isimleriyle gerek şarkılarıyla bazen de bizzat hikayede bulunuyorlar. tabi bunlar genellikle ingiliz kökenli veya orda yankı uyandıran şahıslar oluyor. en ilgi çekici yanı ise her bölümde mutlaka ucundan kıyısından da olsa studyodaki bi canlı performansı barındırması oluyor. (ki bu genelde indie gruplar oldu şu ana kadar guillemots, the wombats gibi) chris o'dowd başta olmak üzere oyuncular çok başarılı. özellikle ades'i oynayan daniel kaluuyaya dikkat. kesinlikle takip edilmeli.
+it crowd'un roy'unun malın ötesi bi radyo dj'ini canlandırdığı komik ingiliz dizisi. lindsay isimli bu dar paracık pantolonlar giyen, v yakalı tişörtünün içinden kılları taşan, saçının ön tarafı bir yana fönlenip yatırılmış karakterden sonra, moss'un resmini çerçeveletip duvara asmak şart oluyor.
+ks. fide master
+tarsus'ta bulunan en iyi internet kafe. hem de öyle bir internet kafe ki oraya gitmeye alışan internetseverler bir daha evlerine gitmek istemiyorlar. abdulkerim bengi anadolu lisesi öğrencileri burayı ekstra sever. öğleden sonra okuldan kaçanların ortak buluşma noktasıdır, yapılan dota partilerinin tadı damakta kalır. sahibi mustafa abi ciddi anlamda herkesin abisidir. hatta öyle bir abidir ki: "lan oğlum defolun gidin artık evinize ya kapatacam artık kafeyi. hiç sözden anlamıyorsunuz, gidin ders çalışın lan" diyecek kadar da içtendir.
+geçtiğimiz günlerde 2010 sürümü çıkan bağımlılık yaratan oyun football manager!
+6 bölümden oluşan ingiliz itv kanalı tarafından yayınlanan komedi dizisidir. ilk sezon itibari ile (umarım devamı gelir dememden beğendiğimi çıkarabilirsiniz) her bölümde ünlü simaların yer aldığı, performans sergiledikleri bir radyo istasyonunu mekan belleyen bu komik dizinin başrolünde it crowd dizisinde roy karakterini oynayan chris o'dowd yer almakta. olayların eksenine fm radyo kanalının 3 dj'yi lindsey carol (chris o'dowd), dom cox (kevin bishop), jane edwards (nina sosanya ) yerleştirilmiş durumda. birbirleri ile olan şakalaşmalarının yanı sıra lindsey'in her bölüm başına gelen absürd olaylar ile harmanlanması senaryonun kemik kısmını oluşturuyor. seyirciye ise o kemiğin içindeki iliği çekmek kalıyor.
+(bkz: volvo fm)
+çok iyi ama standart ingiliz dizisi olduğu için tadımlık bir komedi dizisi. umarım devamı gelir.
+yangin sondurme sistemleri elemanlarina onay veren amerikan menseli bir sigorta kurumu tarzi bi şey.. fm approved diye geçer..
+ks. fucking magic
+fransızca: les freres musulmans *
+bir zamanlar kendisini önemsemediğim bir zaman sonra bağımlısı olduğum yine bir zaman sonra da iyi ki bırakmışım dediğim fakat hala hatıraları çok sık olmasa da aklıma gelen football manager oyunu.kimseye tavsiye etmem kötü olduğundan değil.bağımlısı oluyor insan.bir hatadır başladısanız ve hiç bırakamıyorsanız yapmak istedikleriniz yapın,oyunda kendinizi ispatlayın(hile yapılmaması tavsiye olunur) oyunda seneler geçsin.biraz hevesiniz almış olacaksınız.fakat aynı zamanda biraz daha oynamak isteyeceksiniz.işte bu zaman oyunu bırakma zamanı.zaten her şeyi denedim diyorsanız bırakın gitsin.hayatınız değişecek.
+ks. fermiyum
+hadi artık yeni albümleri rockville çıksın dediğim ingiliz aor, hard rock, progressive rock grubu.

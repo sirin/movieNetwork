@@ -1,0 +1,3 @@
+kontaktörler, termik röleler, akım koruma röleleri, kontrol röleleri, sigortalar, şalterler, butonlar, switchler, sensörler, komitatörler, butonlar, yıldız üçgen yolvermeler gibi pano elemanlarıdır. şalt grubu elemanları olarak da geçer. başlıca markaları schneider, siemens, moeller, legrand ve abb'dir.
+(bkz: schalten)
+(bkz: şalt sahası)

@@ -1,0 +1,78 @@
+(bkz: recursive)
+ing. dongu. ayni zamanda x86 serisi i$lemcilerde dongumsu $eyler yapmaya yarayan assembly instruction. cx (cpu moduna gore ecx, rcx de olur) degi$kenini bir azaltir ve hala israrla degeri sifir degilse operand olarak verilen adrese ziplar. mesela birden ona kadar saymak icin amd64 bir cpu'da degi$kenleri hoyratca kullanarak $oyle bir $ey yapilabilir: mov rcx, 10 .adres: ... hede hodo ... ; burada ne istersen yap haci loop .adres oh yeah. yanli$ hatirlamiyorsam loop'a verilen adres tek byte relatif offset'tir o yuzden 255 byte'tan otesine loop yapmak haramdir.
+tekrar
+(bkz: kisir dongu)
+elektronik müzikte devamli tekrar eden kisa süreli melodi
+birinin koalasının adıydı bu
+sonsuz olmasini istemediklerimizden (bkz: infinite loop)
+muzikte transa girmek icin esas unsur. ilkel afrika muziginden lazlarin kemenceli oyun havalarina, elektronik muzige kadar olayin özü. loop, loop, loop, loop............... cok loop iceren muzikler bazi ülkelerde yasaktir...
+super sewesim gelen nick olarakda kullanasim gelen kelime
+mikrobiyolojik kulturleri bir besi yerinden digerine aktarmak icin kullanilan yuvarlak baslikli igne..
+loop yazilir lup okunur.
+www.yazar.com'un en iradeli, karizmatik, takdire şayan ve dost elemanı... pek memnunum kendisini tanımış olmaktan. muhabbetide hoştur... severim yani...
+nemessis, yani beni sozluge getiren insanin yeni nicki..
+super misirla ilgili sayfalar yapar.. http://www.eskimisir.org/
+(bkz: super misir)
+c: while(true) { } basic: do: loop pascal: repeat; while (true);
+basic'te alternatif olarak 10 go to 50 20 go to 40 30 go to 10 40 go to 30 50 go to 20 şeklinde oluşturulabilir. bilgisayar için challenging olur, en azından bir şey yaptığını hisseder.
+(bkz: loop the loop)
+(bkz: loop seklinde diyaloglar)
+hayat bir looptur. infinite loop olmasını arzularız ama değildir. elbette bir gün içinden break ederek çıkılacaktır
+türkçe cümleler içinde kullanıldığında iğrenç ötesi duran kelime. bu kadar türkçe karşılığı varken (döngü, daire, halka, tekrar, yineleme) aslen ingilizce bu kelimenin ağızlara sakız olmasını tarzanca'nın yaygınlığına mı, yoksa kimilerinin dil zevksizliğine mi bağlamak gerektiğine karar veremedim şahsen.
+(bkz: killer loop)
+masa tenisinde topun hizli bir $ekilde ileriye dogru dönerek gitmesi
+(bkz: tight loop)
+ucakla yapilan tam bir dairedir, iyi yapilmis oldugunu bittiginde basladiginiz yukseklikte olmaniz belirler..
+(elektrik) bir devrede bir noktadan başlayıp aynı noktaya gelinen kapalı döngülerin her biri. mesh lerden oluşur.
+turkce karsiligi çevrim olan kelime.
+(bkz: loop)
+pendikte güzel bir cafe, ama ben hep içimde olduğum için hayatımı kararttı.
+eski günleri hatırlatan şahsiyet. geri dönmüş ya da bana öyle geliyor.
+kurgusunu yaptığınız bir işin altına döşediğiniz müziğin görüntüden kısa süreli olması durumunda, müziği uygun bi yerlerinden kesilerek mixlemek suretiyle kalan kısmıyla birleştirilmesidir. çakılmaması montajcının kulağının ii olduğunun göstergesidir.
+(bkz: the loop)
+ba$langıc ve biti$ noktalari kendi icinde uyumlu samplelarin dongu halinde kullanılması. özellikle video ve sound editing alanlarında algı kurallarına uygun kullanımı ürünün ya da eserin ba$arısı ile dogru orantılı hale gelen kavram. örnegin 8 vuru$luk perkusyon looplarinin sabit kaldıgı bölümde kullanılan 16 vuru$luk bass stringleri ile, daha kısa perküsyon dizili$leri daha uzun süreler kullanılabilir.
+hergün çoraplı, çorapsız çamurlu ıslak ,ayaklarımızla başını döndürdüğümüz ve hiç bir geri sayım cihazının önünde durmaya cesaret edemediği , öyle hep öylesine devam eden bana nedense hep komik gelen döngü .
+(bkz: bak şimdi)
+çigdem talu'yu trafik kazasında öldürmüş bir kişidir bu.
+heaven s end, fade out, a gilded eternity adlarında üç ofisyel albümleri bulunan, köklerinin psychedelia, ambient, protopunk, krautrock'a kadar gittiğini düşünüp yine de ahkam kesmeden, tanımlaması güç, güzel ve güçlü bir müzik meydana getirdiklerini düşündüğüm seksenlerin sonu doksanların başı ingiliz grup. elemanlarının bir kısmı main, diğer bir kısmı da the hair and skin trading company'i kurarak müzikten ekmek yemeye devam etmişlerdir. daha fazla bilgi için: http://www.soundheads.co.uk/ http://www.roberthampson.com/
+doğalgaz, hampetrol boru hatlarının, depo olarak kullanılması amacıyla kıvrımlara uzatılması işleminde, kıvrımlara verilen teknik isim.
+switch ve router configurasyonlarında yapılan ve gereksiz network trafiği yaratarak sistemin overload dan gebermesi
+şahsıma inatcı diye mütemadiyen asılsız ithamlarda bulunan, watcher konumunda olduğum, rapunzel modeli bir zat-ı muhterem. yeni tanıdığım buna rağmen güvenebildiğim nadir insanlardan. hep yaptığı sitelere abuk sabuk yorumlarda bulunmak, hep yazdığı hikayeleri okumak, hep kafasını şişirmek istediğim bir insan. ve doğum günü bugün neme kardeşimizin, huzurlu bir yıl geçirmesini ve ne istediğini bilmesini diliyorum.
+local loop...dogum günü cocugu...selam eder nice yaslara dileriz..yazıldıgı gibi okunur ayrıca nemessis..*
+kaç zamandır aynı bokun soyuyuz sanaraktan hoyrat hoyrat konustugum fakat bir fenotip farklılıgımız oldugunu yeni öğrendiğim puma çita jaguar..intikam tanrı(ça)sı..aa ye çek diz auvvtt
+iyi insan. uzuun uzun muzik muhabbetleri, hayat memat halleri konusmaktan sıkılınmayan yaratik. pek bi tembel, o ayri. *
+geceyi paylasmasi en zevkli kisi, sıkmıyor.. bıktırmıyor.. ayrica chroi hede hodo:)
+(bkz: loopus)
+yamaç paraşütüyle yapılan bir akrobasi hareketidir. wingoverın ileri seviyesidir. dikey konumda pilotun kanadın çevresinde dönmesi olarak açıklanabilir.
+televizyonculukta aynı görüntünün yapıştırılarak tekrar verilmesi anlamına gelir. aynı zamanda le hoop! ünleminin hızlı söylenişi de olabilir. (bkz: iğrenç espriler)
+(bkz: a loop)
+bir windsurf akrobasi hareketidir. yelken ve boardun havada 360 derecelik bir takla çizmesi demektir. tabii sörfçü de üzerindeyse. bunun birkaç yöntemi vardır. back loop,push loop, front loop ve bizim sularda uygulaması en kolay olanı spin loop. meraklılarına tarifi: 1) açık apazda rüzgar altına dalga olmasa bile sudan bir miktar yükselecek bir sıçramaya elverişli bir seyir süratine erişilir. bu esnada bumbanın germe yakasına yakın olan el (direkten uzaktaki) daha da uzaktan tutacak bir konuma alınır 2) sıçrayışa uygun olduğuna karar verilen noktada boardun burnu neredeyse pupaya çevrilerek sıçrayış yapılır. 3) boardun sudan tamamen kesildiği anda burnu öndeki ayakla dışarı ve yana doğru itilir. böylece boardun paralelliği bozulmuş olur. 4) hemen ardından arka ayaklıktaki ayak bordun arkasını kaldıracak şekilde bükülerek yukarı çekilirken arkaya alınan elle bumba yelkene dönüş verecek şekilde asılınır. ve baş akraya bakacak şekilde çevrilir. 5) bundan sonrasını rüzgara bırakarak yelkenin ters taraftan aldığı rüzgarla loopu gerçekleştimesi beklenir. 6) iniş başlangıçta sırtınızın üstüne olabilir. bu durumda sudan kalkarak devam edilir. 7) iyi atılmış bir loop sizi tekrar ayaklarınızın üzerine indirecektir. http://www.the-daily-dose.com/…fen/home-move-fl.htm
+pcanywhere ile remote computer'e connect olup, remote computer'i kendine connect etmen sonucu oluşan hadise (bkz: mavi ekran) (bkz: hayvanım)
+common lisp'te inanilmaz taklalar atan donguler yazmanizi saglayan makro. kullandiktan sonra bir daha diger dillerdeki dongu yapilarini begenemezsiniz. scheme'de tail recursion marifetiyle kurulur genelde.
+kısaca kısır döngü... bazen günlük hayatta insanın başına öyle hadiseler gelir ki... loop olmasını engellemek için susmak gerekir.... örneğin yapmasını beklemediğiniz birinin salakça bir eylem (eyleme birtakım replikler de dahil olmak üzere) yapması üstüne... benzer bir salakça eylemle onu uyarırsınız bazen... -iyiliği için bile olsa- uyaracağınıza sussanız daha iyidir lakin bazı durumlarda... susmayınca her cümleye bir karşılık gelir ve her cümlesine bir karşılık verirsiniz... sonra ikinizin de başa dönüp durduğunuzu anlayıverirsiniz birden... siz bu durumun farkına varınca... yani farkına varırvarmaz... özellikle de bunun farkına varmamışsa henüz karşınızdaki... ; salakça diyalogların sür-git olmaması, bu döngüden çıkmak, loop olmasını önlemek için "ikimiz de susalım mı" demek caizdir zannımca...
+bir grup olaraktan loop, (bkz: loop band)
+nijat özön türkçesi ile dolam.
+izmirde alsancakta kemancı'nın hemen arka tarafında faaliyet gösteren aşmış disco.
+izmirde bir tiki mekanı.
+mayadrom sports center ın içinde yeni açılmış olan (hatta çiçeği burnunda) restauran.. mimarlığını hasan mingü yapmıştır..hiçbir masraftan kaçınılmadığı her halinden belli olan bu güzide restorandan; havalandırmanın genel yetersizliği mi, yoksa mutfağın konumu gereği mi, yoksa hiçbiri değil de şöyle bi koksun herkesin canı çeksin mantığından mıdır bilinmez, giriş ve lobiyi engellenemeyen yemek kokusu istila etmektedir. kaliforniya ve italyan mutfağı sunulmakta ve ücretlerin pahalılığı adeta gözleri yuvalarından oynatmaktadır..
+bissürü türkçe karşılığından biri de menderes'tir.
+bi yerde mutlaka hop denilmesini bekler. thread'ler energizer'la calıştığı için onlar bu kaideyi bozarlar.
+(bkz: büyüteç)
+ummagummanın kapağı...
+(bkz: badger badger badger)
+yangın alarm santrallerinde 127'şer dedektör veya buton taşıyabilen hatlara verilen isimdir. bağlantının ring modu bağlantı olması nedeniyle bu isim verilir. türkçe açıklamalarında çevrim olarak geçer.
+nazarımda ancak hoş bir melodinin kazanabileceği bir sıfat.
+4 yıldır yazmayan 1. nesil yazar.bugün nedense gülücüğe basınca hep bu yazarın yazdığı entryler çıkıyor bende.
+japon indie gruplarından heidi'nin bir şarkısı. kaichou wa maid-sama'nın 2. kapanışıdır da ayrıca. http://www.youtube.com/watch?v=05swrd3xyhy (tüm şarkı) http://www.youtube.com/watch?v=bowzdl_1oiw (anime klibi)
+estetisyenlerin cildi detaylı bir şekilde incelemesine, analiz etmesine yarayan, yuvarlak büyüteçe verilen ad. http://images.gittigidiyor.com/…oop__25703137_0.jpg
+heidi'nin şarkısı olanın sözlerini yapıştırayım.. sono me ni utsuru mono subete maboroshi ni wa miemasenka? karamiai tokete yuku naka kimi wa nani wo kanjiteru no darou? hoshii mono wa tatta hitotsu sore wa ittai nandesu ka? tsukamu koto nado kanawanai nagareteku ano kumo no you desu mitegoran dokomademo tsunagatta sono riyuu wo kanashii kara sugarou sonna mono de ii ja nai ka kazaranai mama mukaeru utsukushisa yo itsu no hi ni ka wakarou tatoe doko ni ita toshite mo kitto mata aeru kasanariau kimi to boku sono ishiki wa dare no mono? kuro no umi ni nagedasare nami ni nomare oborete yuku dake kanjiteru kono kokoro bokutachi wo ima shimeshite samishii kara sugarou sonna mono de ii ja nai ka kagirareta mama chiriyuku utsukushisa yo kondo koso wa wakarou tenohira de sukueru hodo no yasashisa wo tsumete
+bir entrysinde ufak bir düzeltme yapmak için mesaj butonuna bastığımda en son 5 yıl önce entry girdiğini görüp tanımadan etmeden, nedensizce, eski bir dostumla bir daha görüşemeyecek gibi garip duygulara gark olduğum yazmaz kişi. her nerede ne yapıyorsa umarım mutludur.
+mikrocerrahide sıklıkla kullanılan büyüteçlerin ismi loupe'dur. ama her ikisi de "lup" diye okunduğundan karıştırılabilmektedir.
+hayatımın tek kelimelik özeti.
+önünü alamamak. herkes loop yapabilir mühim olarak loop'taki bir şeyi durdurabilmek.
+(bkz: loop'a alınacak şarkılar)
+ispanyol yönetmen aritz moreno imzalı,filminute 2011 in galibi,1 dakikalık sinema olayı
+velcro cırt banlarda cişi kısma verilen isim. erkek kısmı için; (bkz: hook)
+istanbul, zincirlikuyu'da hizmet veren gece kulübüdür efendim kendileri. http://www.loopclub.net/#/home
+jvm uzerinde calisan programlar yazmaniza olanak saglayan bir programlama dili. http://looplang.org/
+en son 7 yıl önce entry girdiğini görünce sanki eski bir dostumu kaybetmişim ve bir daha göremeyecekmişim gibi nedensizce üzülmeme sebep olmuş yazar kişisi.

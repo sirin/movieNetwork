@@ -1,0 +1,10 @@
+1 - ingilizce: kisim, bolum anlamlarina gelen kelime.. 2 - ingilizce'de nota'larin kagitlara dokulmu$ hallerine verilen isim.
+matematikte bir kumenin partitionlari herhangi ikisinin kesisimleri bos kume olan ancak hepsinin birlesimi kumenin kendisini olusturan altkumeleridir.
+(bkz: primary partition) (bkz: extended partition) (bkz: logical partition)
+solarisde karsiligi slicedir.
+2007'de çevirilmiş dramatik bir film. 1940'lı yıllarda hindistan'da geçen bir aşk filmi.
+pakistan ve hidistan ayrılmasını anlatan güzel bir film. özellikle tarafsız olma çabası filmi izlenebilir yapıyor. kristin kreuk ve jimi mistry nin oyunculukları göz dolduruyor. seneryo her ne kadar aşk üstüne kurulmuş olursa olsun asıl savaş ve ayrılığın insanı neye dönüştürebileceğini de çok iyi tasvir ediyor. * *
+başrolü jimi mistry ve kristin kreuk'un paylaştığı vic sarin filmi.
+türkçesi bölüt'tür. edit: mac os xte bölüntü de diyor, o da olur.
+partition ic mimaride de kullanilir, bolucu duvar anlaminda. ama hafif olani, yani alcipan, ya da ahsap ya da cam boluculer icin kullanilir.
+matematikte bir kümeyi belirli bir kurala göre veya rasgele bir biçimde ortak elemanları olmayan alt kümelere bölme işlemi ve / veya bu işlem sonucu elde edilen alt kümelerin hepsi. örnek vermek gerekirse, riemann toplamını elde etmek için altındaki alan istenen eğrinin apsisinin başlangıç ve bitişi normu sıfıra giden n sayıda partitiona bölünür.

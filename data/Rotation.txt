@@ -1,0 +1,11 @@
+"avl tree" leri "balanced" hale getirmek icin yapilan islemlerin adi. burada "balanced" ile kasit, iki leaf node arasinda birden fazla derinlik farkinin bulunmamasi durumudur. "rotation", single-left, single-right, double-left ve de double-right olmak uzere 4 grupta toplanir. aslinda "double rotation" lara double denmesini manasi, iki tane "single rotation" dan olusmalaridir. mesela bir adet double-right=bir adet single-left + bir adet single-right dir.
+| cos§ -sin§ | | sin§ cos§ | matrisiyle gösterilebilecek, düzlemi döndürme işlemi. (r²->² tanımlıdır) 3 boyutlusu için her düzlemde birer kez bu işlemi gerçekleştirmek yeterlidir.
+(bkz: quaternions)
+(bkz: rotasyon)
+n-gage i saymazsak cep telefonlarinin sahip olabilecegi en iyi oyundur. gorulmus en iyi puan da 2002 dir.*
+(bkz: rulet)
+havacilikta, kalkis sirasinda bir ucagin burnunu kaldirip (bkz: pitch) havalanmaya baslamadan once ulasmasi gereken hiz. referans tablolarinda 'vr' olarak gosterilir. hava sicakligi, havaalaninin irtifasi, ucagin agirligi gibi faktorlere baglidir.
+bu oyunda binli skorlara kolayca ulasmak istiyorsaniz 3x3luk matriste oyunu oynayin. ayrica bu oyunda kirilan rekorlar bin puanin üzerindedir.
+herb albert'ın 1979 tarihli şarkısıdır. sarı sıcak afrika üzerine yapılan belgesellerde o çok aşina akşam üstü bir su parçasına tünemiş kuş sürüsüne yaklaşma hissi uyandırır, batan güneşin ufukta yarattığı kızıllık da cabası.
+havacilikta ucagin kalkisi icin burnunu kaldirmasi islemine verilen ad. hayvan gibi yapilmasi ucagin kuyrugunun yere carpmasina sebep olur.
+ing. dönme hareketi.

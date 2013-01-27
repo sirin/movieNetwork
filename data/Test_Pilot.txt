@@ -1,0 +1,1 @@
+firefox eklentisi.* bu eklentiyle firefoxun geliştirilmesine katkıda bulunabiliyorsunuz. eklentiyi kurduktan sonra tarayıcınızın sağ alt köşesinde görebilirsiniz. ayrıntılı bilgi için; http://www.chip.com.tr/…meye-ne-dersiniz_14627.html

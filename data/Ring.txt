@@ -1,0 +1,50 @@
+(bkz: boks) yapilan kare bicimindeki alan.
+(bkz: ingilizce)de yuzuk, halka.
+dairesel bir hat uzerinde ilerleyip basladigi yere ayni yoldan iki kere gecmeden geri donen (bkz: otobus) seferi.
+ingilizce'de calmak eylemi. (bkz: calan telefona bakmamak)
+(bkz: furby sesleri)
+matematikte halka. (bkz: halka/4)
+boks yapilan kare biciminde bir alan olmasina ragmen ,neden (halka & yuzuk) , yuvarlak formatli bir isim verilmis oldugunu anlayamadigim sozcuk.
+(bkz: ring indicator)
+davulcuların davuldaki derili parçaların (trampet, tomlar...) üzerine koydukları halkanın adı.
+gary burton quintet'in ecm den çıkan çalışması
+(bkz: boks ringi)
+kisa mesafeli yollarda ogrenci/personel tan$inmasina olanak veren otobus sistemi
+bir grubu olu$turan uyelerin telefon numaralarinin yazili oldugu kagit parcasi..
+ayrica film olani icin (bkz: the ring)(bkz: ringu)
+e ama (bkz: the ring)
+(bkz: evans) (bkz: remo) *
+almancada artikeli der olan yüzük anlamında kelime
+ayni zamanda tekstil de kullanilan bir kumas turu. ring kalite diye adlandirilir.
+ring pamuk ipligin 3 formundan biridir. elyaf uzunlugu ortadir. en kisa elyaf uzunlugu open end (o/e) diye gecer. en uzun elyaf uzunlugu ise penyededir. yani penye yine yanlis kullanilan bir kelimedir aslinda.
+ring0,ring1, ring2,ring3 diye 80x86 ile baslayan mikroislemcilerin guvenlik halkalari vardir, amma isletim sistemleri genelde bunun sadece 2'sini ring0 ve ring3 kullanir. (bkz: kernel) kernel ring0'da user mode programlar da ring3'de calisirlar. 4 tane ring'in hepsini kullanmak azcik got ister zira galiba multiprocessor support'u icin falan 3-4 ring kullanmak gerekiyor imis nassi oluyo o kadarini da ben bilmiyom arastirin bulun zaten acayip kafa skici mevzular bi yerden sonra insan oha yeter be imanim gevredi diyor. bu intelciler manyakmis zaten....
+halka dizilimli lan topolojisi. kablolamanın bir yerinde bir ariza olsa bile bilgi akışı halkanın öbür tarafindan devam edebilir.
+siddharta adlı güzel grubun my dice adlı manyak şarkısının orjinalinin adı. çok da izlenesi bi klibi vardır bu şarkının...
+su bildigimiz telefon sesi. genellemelere gore insani varliklar telefon caldiginda mutluluk belirtileri gosterseler de aksi durumlar yadirganamaz derecede olagandir. telefon sesleri dayanilmaz olabilir, istenmediginde.. bi de kapatirken cikan* sesin desibeli belli kademeye ciktiginda telefon sesinin* yarattigi sok bir noktaya kadar bastirilabilir. madonna da demis ki: "ring ring ring goes the telephone the lights are on but there's no-one home"
+(bkz: ash nazg durbatuluk) (bkz: ash nazg gimbatul) (bkz: ash nazg thrakatuluk) (bkz: agh burzum ishi krimpatul)
+altinci nesil yazar. ho$gelmi$.*
+acemi bir boks sevdalisiysaniz daha bir kucuktur sanki metrekaresi.
+bilkent ücretsiz servis hattıdır bir anlamda. merkez-doğu, merkez-tunus, merkez-sıhhıye, doğu-tunus, doğu-sıhhıye hatları vardır. beleştir, severiz...
+(bkz: viyana)
+eksi radyo'da sabahi sabah ettigimiz yazardir, badimizdir.
+(bkz: banana phone)
+yeditepe üniversitesi'nin içinde dolaşan otobüslerin adı. bilgi üniversitesi'nde shuttle olarak geçiyor sanırım.
+bir insan evladı olsun ki senelerce yazar olsun, girsin çıksın sözlüğe, okusun dursun ama birşey de yazmasın dediğim, mükemmel fikirlerin sahibi, çift mouse clickleyicisi ubermensch yazar.
+boks ve diger dovus sporlari musabakalarinin icinde yapildigi alana verilen isimdir. ring adini ilk zamanlarda dovuslerin icinde yapildigi yere kabaca cizilen cemberden alir. ilk kare ring 1838 yilinda pugilistic society tarafindan dusunulmustur. ring icin ''square circle''da denmektedir. bir kenari kabaca 5 ile 7.5 metre arasinda degismektedir. yerden yuksekligi 1 metre civarindadir.
+askeri birliklerin çoğunda belirli saatlerde birliği turlayan otobüs.
+(bkz: t ring)
+köksal özoğluöz ile birlikte yeni yayın döneminde tekrar trt ekranlarına çıkacak program.
+kku'da kampüs içini turlayan dolmuş. rinğ diye yazılmışlığını da gördüm güzide dolmuş şöförlerimiz tarafından.
+zig-zag* varken tercih edilmemesi gereken bir filtre markası. strafor gibi bir şey, gerek yok.
+purolarda kalinlik birimi. bir puronun ring size i, "(en kalin oldugu yerdeki capi-inch olarak)*60" a esittir.
+cezaevlerinde mahkum ve tutukluların nakil ve sevk işlemlerinde kullanılan araçtır.
+(bkz: mekik servis)
+elektrik dağıtımda, genellikle il ve büyük ilçe merkezleri için tasarlanan, alternatif besleme, bakım onarım gibi kolaylıkları sağlayan şebeke yapısıdır.
+irlanda cumhuriyeti'nin güney bölgesi munster'daki cork şehrinin (county cork) alt-yönetim birimlerinden (parish) kilmacdonogh'da bir townland. ~ cork kaynaklar: ~ irishtimes.com/cork ~ the counties of ireland ülkenin, bölgenin ve şehrin tüm yerleşim birimleri için: (bkz: irlanda/#25094543) (bkz: munster/#25096008) (bkz: cork/#25100968)
+irlanda cumhuriyeti'nin doğu bölgesi leinster'daki dublin şehrinin (county dublin) alt-yönetim birimlerinden (parish) balscaddan'da bir townland. ~ dublin kaynaklar: ~ irishtimes.com/dublin ~ the counties of ireland ülkenin, bölgenin ve şehrin tüm yerleşim birimleri için: (bkz: irlanda/#25094543) (bkz: leinster/#25096014) (bkz: dublin/#25103131)
+bir insanın gerçek kişiliğini tanıyabileceğiniz yerdir. gelmiş geçmiş en iyi boksör joe louis'in dediği gibi: "he can run but he can't hide in the ring"
+irlanda cumhuriyeti'nin doğu bölgesi leinster'daki wexford şehrinin (county wexford) alt-yönetim birimlerinden (parish) carn'da bir townland. ~ wexford kaynaklar: ~ irishtimes.com/wexford ~ the counties of ireland ülkenin, bölgenin ve şehrin tüm yerleşim birimleri için: (bkz: irlanda/#25094543) (bkz: leinster/#25096014) (bkz: wexford/#25104935)
+irlanda cumhuriyeti'nin doğu bölgesi leinster'daki wexford şehrinin (county wexford) alt-yönetim birimlerinden (parish) ishartmon'da bir townland. ~ wexford kaynaklar: ~ irishtimes.com/wexford ~ the counties of ireland ülkenin, bölgenin ve şehrin tüm yerleşim birimleri için: (bkz: irlanda/#25094543) (bkz: leinster/#25096014) (bkz: wexford/#25104935)
+irlanda cumhuriyeti'nin doğu bölgesi leinster'daki wexford şehrinin (county wexford) alt-yönetim birimlerinden (parish) tacumshin'de bir townland. ~ wexford kaynaklar: ~ irishtimes.com/wexford ~ the counties of ireland ülkenin, bölgenin ve şehrin tüm yerleşim birimleri için: (bkz: irlanda/#25094543) (bkz: leinster/#25096014) (bkz: wexford/#25104935)
+cezaevinden mahkemeye, hastaneye mahkum götürüp getirmeye ya da cezaevleri arasında mahkûm nakletmeye yarayan her yanı kapalı araçlara (da) verilen ad. bu araçlarda mahkûmların konulduğu kısımla dış kapı arasındaki boşlukta silahlı askerler oturur. ama yine de mahkûmların eli kelepçelidir. dahası, bazı araç tiplerinde koltuğa da zincirlenir tutuklu/hükümlü. edit: bazı mahkûmlar şapkasız baktım, üşümesinler dedim. "biri şapkalı biri şapkasız... -par, kıyamet ondan kopar" demiş atalarımız.
+hususa dair cok alakasiz gibi duran ama ayni potada eritilebilecek iki bakiniz veriyorum: (bkz: ring dips) (bkz: der ring des nibelungen)

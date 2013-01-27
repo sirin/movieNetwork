@@ -1,0 +1,37 @@
+http://www.ritlabs.com/the_bat adresinden edinilebilecek, super bir mail client. pgp destegi, built in mailing list olu$turabileceginiz ozellikleri vs. ile $ahsen gorduklerimin en iyisi.
+şimdiki hitnete en uygun mail client
+(bkz: bat)
+outlook malini birakmak u$endiricidir, ama the bat'dan sonra ba$ka e mail client kullanmak imkansiz gibi bi$idir.
+outlook (as well as outlook express) a gore inanilmaz hizli bi email client
+eski fido nodeları arasında popüler goldedi sevmiş bir grubun yaptığını düşündüğüm mail client. para toparlayıp register olunca sormaya yüzüm de olacak.
+okunmamis mailiniz oldugunda surekli kanat cirpan sevimli program.
+yillardir sabirla gelistirilmekte oldugu soylenen 2.0 versiyonunu bekledigimiz, ama bu versiyonu bi turlu ufukta bile gorunmeyip onun yerine .01 arti$li versiyonlari cikmaya devam eden mail client. (yakla$ik 1,5 yil once hitnetcek kullanmaya basladigimizda 1.37'deydi, simdi 1.52e'de)
+ritlabs in yapmis oldugu, hitnet ile kullanmaya basladigim, su ana kadar gordugum en iyi e mail client i.
+küçük ve işlevsel bir mail client
+tavsiye uzerine kullandigim ama hic de vazgecemeyecegim bir mail client
+filtreleme, gruplama konusunda fetislerinizi tatbik edebileceginiz bir e-posta uygulamasi. sanal klasorler (bkz: evolution) destegi eksik bir istemci.
+tek sorunu daha sonra buradaki maillerinizi şu veya bu sebepten outlook'a import edemiyor oluşunuzdur. (kendisi her yerden mail import edebiliyor o ayrı) ama yine de çok güzel, çok başarılı.
+"bats are the only mammals to have evolved true flight, and most species also possess an acute system of acoustic orientation, or echolocation. e-mail messaging is a kind of communication without seeing whoever you are communicating with." gibi tip of the dayleri olan yuce program.
+azcik garip bir dosyalama yapisi olan program. netekim compress all folders deyince 629 mb yer acildi.
+html mail yazabilme destegi versiyon 2.0 in betalarinda var ancak bir de yapistirdigim html icerigini yorumlasa, html'e rtf gibi bakmasa..
+v2 si cikmis program. description release date size action the bat! ver.2.0 sep 1 2003 2.4.m download
+v2.02.03 ce*si cikmis olan mail client. http://www.ritlabs.com/en/products/thebat/
+ultimate mail client i$te budur***.
+iki sorunu var bunun, bana sorarsanız biri hayli önemli. biri -belki artık düzelmiştir- dışarıdan imaj çağıran html tabanlı maillerde sorun yaratıyordu, bir diğeri de outlook'tan filan gayet güzel import ederken, export fasilitesi sadece .eml formatında bi ton dosya üreterek çalışıyordu. outlook pst'si import etmek kolay iken, bunun ürettikleri üzücü derecede çok çaba gerektiriyor outlook'a almak içün.
+di$ardan imaj cagiran html tabanli maillerde, microsoft efendi'nin "hoca ben resimleri $imdilik sakladim her ihtimale kar$i" temkinini birkac sene once akil edip, "yok yahu gelsin resimler" secenegini ise menulerin en dibine ekleyen $a$kin dahi formatindaki email client. hem gecmeyin arkada$im the bat'tan sonra outlook'a falan, gelmiyim oraya.
+sürekli encoding problemleri yasattigi icin silmek zorunda kaldigim, mail import gerceklestirilebilen fakat herhangi bir sekilde baska programlara (outlook, netskeyp vs vs) export ettirmeyen , bu sebepten mail arşivini silmek istemeyen insanlar tarafindan kullanilirsa kullanilmaya baslandiktan sonra baska clientlara gecmeye izin vermeyen program. cok hizlidir ayri.. (bkz: thumbs down)
+hitnet li gunlerde helloween edition iyla meyil yazmayi sevdirmi$, random tag line hadisesini ozledigim program ..
+kablonet uzantılı maillerle (username@kablonet.com.tr) mail alınabilen ama mail gönderilemeyen program.
+cok detayli cok esnek bir client olmakla beraber imap ile calismasinda sorun yaratiyor. bazen folderlari refresh edemiyor, zaman zaman takilabiliyor. pop3 ile cok iyi calismasina ragmen imapde bu problemleri cikariyor olmasi yuzunden her ne kadar cok daha yavas ve islevsiz olsa da mozilla/thunderbird u sirf folderlara daha rahat bakilabildigi icin daha iyi bir alternatif yapiyor. edit: (bkz: imap/@anjin san) celiski var. buradaki yorum eski bat! icindir.
+3. surumu home ve professional olarak cikmis, asmis mail client. yeni icon'lar disinda 2.x surumlerinden pek farkli gorunmuyor.
+antivirus programı bulundurmayı sevmeyenler için antivirus plugin i bulunabilen program.
+1.x versiyonlarinda register oldugum, 2.x'lere gelince yine para odeyerek upgrade ettigim, 3.x'i kurmamla artik alanen crackli kullanacagim mukemmel program.
+16 account, 15000'den fazla mail ile 4 saniyede gayet guzel tikir tikir kapanan mail client. ortalama backup alma suresi de 3 dakika kendisinin.
+delphi ile yazılmı$tır.
+taşınabilir versiyonu the bat! voyager ile tüm mail arşivini taşınabilir harddisk ile yanında bulundurmayı mümkün kılmış email client.
+imap konusunda sikintilidir, gmail ile sohbet etmez, gelistiriciler 4.xx versiyonunda duzelecek diyerek 4.22'ye kadar gelmelerine ragmen hala folder synch vs gibi olaylarda sikinti yaratabilmekte. bunca yil sonra sorunlu bir tarafini gorebilmek gozlerimi yasartti, vazgecilmezdir her ne olursa olsun, piyasadaki tek mail client.(mni sikiym outlook o pst'ler, file corruption'lar gotune girsin.)
+gnus'a alışan bir bünye için gereksiz gui'li mua'lardan biri.
+gelen elektronik postaların içindeki bütün adresleri tek bir tıkla adres defterine atıp beni benden alan, işte budur dediğim minicik dev program.
+sağ alt tarafta borsa değerleri vari okunmamış iletilerin bilgisi geçiyor.
+(bkz: die fledermaus)
+batman'in the dark knight rises'da kullanacağı yeni oyuncağı. (bkz: batplane) (bkz: batwing) http://www.nolanfans.com/…e2%80%9cthe-bat%e2%80%9d/

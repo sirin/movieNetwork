@@ -1,0 +1,5 @@
+bir finansal terim. karda olma durumunu anlatir. (bkz: out the money)
+at yarislarinda tabelaya girmenin ingilizcesi.
+"in the green" olarak da kullanilir bazi yerlerde.
+fin.ing. "$u anki fiyatlamaya gore karda olan opsiyon (veya finansal arac)" yani; saticisina zarar yazacak olan opsiyon. alici acisindan; amerikan tip opsiyon hemen exercise edilerek para yapmak mumkun iken, european tip opsiyunun valorunde de in the money olmasina dua edilir.
+texas hold'em poker turnuvalarinda para kazanmayi garantileyen grubun icine dahil olunmasi durumu.

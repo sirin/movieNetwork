@@ -1,0 +1,12 @@
+(müzik terimi) aralık.
+matematikte de geçerli bir terim. tanım aralığını belirtmek için kullanılır. örneğin verilen denklemin hangi sayılar arasında doğru olduğunu belirtmek için (-5,12) gibi verilir.
+iyi bir enstruman hakimiyeti icin uzerinde durulmasi gereken bir konudur.
+sinemada verilen araya da yabancılar*** interval der.
+alm. intervall, ing. interval, fr. intervalle.
+tıpta, kalbin sistol olarak isimlendirilen iki kasılma dönemi arasındaki bekleme devresi için kullanılan bir terimdir. kendi içinde de pq, pr, qt gibi alt kısımlarına ayrılır.
+konservatuar sınavında sorarlar bunu.yani 2 ses basarlar örneğin do-fa.. konuyu bilen adam şak diye verir sesleri çünkü bilir bu aralık perfect'tir diye..
+javascriptte belirli aralıklarla bir fonksiyonu çalıştırmak ve/veya durdurmak için kullanılan komut. (bkz: setinterval) (bkz: clearinterval)
+iki ses arasındaki açıklık. örneğin: 330 frekanslı ses ile 660 frekanslı ses arasında 660/330= 1/2 aralığı vardır.
+dinlenme ve maksimum efor arasında dolaşan egzersiz tip. örnek verecek olursak, yürüyüş yapmaya başlayın; temponuzu artırın ve sonra koşmaya başlayın. kondisyonunuza göre 2 ya da 3 dakika temponuzu en üst düzeyde tutarak koşun ve daha sonra tekrar yavaşlayın. 5 dakika aynı tempoda devam ettikten sonra yeniden yüksek tempoda 2-3 dakika koşun. bu, hızlanma ve yavaşlamayı 45 dakika uygulayın. işte bu inişli ve çıkışlı egzersize interval denir. sıradan egzersizlere göre çok hızlı ve daha fazla kalori yaktıran bir tekniktir. not: nabzınızı ölçmeyi unutmayın. sonrasında da esneme harekleri yaparsanız süper olur.
+ilk önce bir kaç km koş. 100 metre koş sonra yürü 200 metre koş sonra yürü 300 metre koş sonra yürü 400 metre koş sonra yürü sonra 300 metre koş sonra yürü 200 metre koş sonra yürü 100 metre koş sonra yürü sonra bir kaç km koş. (bkz: amına koduk bülent başkan)
+akşam yapılanı daha makbul olan egzersiz çalışma.

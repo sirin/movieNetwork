@@ -1,0 +1,101 @@
+unix'te bir editor..
+(bkz: extended definition)
+fallout 1'de gördüğünüz ilk insan cesedi. bakınca "you see ed, ed is dead" diye yazı da çıkar hatta.
+syntax'i asagidaki gibi olan unix file editor; ed [-c] [-p string] [-s] [-] [-x] filename red [-c] [-p string] [-s | - ] [-x] filename
+terminal uyumsuzluğu gibi abuk durumlarda, command linedan kullanılabilme özelliği sayesinde hayat kurtarabilen süper editör.
+muhtesem otesi bir dizi kariyerinin tepesindeyken calistigi avukatlk sirketinden kovulan kovuldugu icin evine erken giden evine erken gidincede karisini havuz temizliycisi ile basan arkasimiz yasayip buyudugu kasabaya gider bir bowling salonu alir icinede avukatlik burosu acar olaylar gelisir
+(bkz: ed o neill)
+(bkz: ed tv)
+nbc de yayinlanan bas karakterle ayni isimli dizi...
+ftuff ligi insanı,mevkiisini kestirmek mümkün deel,sahanın heryerinde görebiliyosunuz kendisini,
+ks. edition ks. education
+butun camsil leri mavi sanan kisi..
+(bkz: ed vedder)
+(bkz: ed hunter)
+(bkz: give me ed til im dead)
+edward'ın kısaltması. (bkz: richard edward)
+adrian'in kisaltmasi olarak da kullanilabilir.
+(bkz: vi)
+sonradan gorme sosyete dilberlerinin @ isaretini soylerken kullandiklari sozcuk.
+bir yoğunluk cinsi. dd, hd gibi. ilk ** kez amiga dunyası dergimde esrarengiz bir verbatim marka disketin üzerinde gördüğümde onu kesip saklamıştım, kaybetmedim ama o disket hakkında birdaha kimseden bilgi alamadım.
+cowboy bebop dizisinde çocuk yaşlardaki afacan hacker. tam adı ise edward wong hau pepelu tivrusky the 4th.
+kendisiyle iyi polis kötü polisi iyi jüri kötü jüri olarak uygulamaya karar verme aşamasında olduğumus hasırcevap insan....
+kendisi olay'da moderator olmadan ilk yazı yazan insan oldu kan aranıyor duyursu ile... hayırlı uğurlu olsun...
+çılgın atılacak insan türünden.
+beni offical sister yapmayı istemiştir ha bi parça ucundan olmuşumdur ama kabul etmeme sebeplerim vardır 1:raist'e ihanet edemem ben zaten onun officalıyım 2:harbi osmanlı erkeği olan birisi benim abim olamaz bünyeme çok ters düşer baksanıza kardeşim mengus ve raistmajereden sonra ed olurmu hiç. ancak kendisini pek bi sevmişizdir karşılıklı göbek bilem atmışızdır.
+alc kripton'un centilmen orta saha oyuncusu. lakin galibiyet sonrası duşta yaptığı fasıl, mağlupken çekilmiyor.
+çaylaklıktan yazarlığa terfi etmemde referans olmuş, çocukluğumun bronz tenli hatırası... kadim dostum...
+(bkz: #5034625) numerolu entrysinden sonra "bizim şirkette it departmanında mı çalışıyor acaba ?" diye paranoya yapmama sebebiyet veren yazar oluyor kendisi.
+fc screenshavers ile nihayetinde anlasarak, hakkında cıkan transfer dedikodularına son vermiş, başarılı ortasaha oyuncusu, gecen sezondan takip ettigim uzaktan abanmalarını bu sezon hararetle izliyecegiz.
+tanıdığım en yetenekli, en tatlı jazzcı...
+fc screenshavers'ın içinde bir santrfor saklı olan sert savunma oyuncusu. ikili mücadeleden kaçmayan, gözünü budaktan sakınmayan savunmacılığının yanında içinde hep bir gol atma isteği de dürter onu. ortasahadan şut atar*, kornerlerde kafayla gol atar, bu böyle de gider. takımı kurarken *kadromuza katmak için az dil dökmüşlüğümüz yoktur ama ne derece isabetli bir transfer olduğu da aşikardır.
+halısahada on kaplan gücünde olup bugün doğmuş olan kişidir.
+ingilizce geçmiş zaman düzenli fiil eki. "past tense regular verb -ed/-ied." ör: she kissed me."
+son reset fc maçında geçirdiği ağır sakatlığa rağmen kahramanca mücadele etmiş, takım ruhunu ayakta tutmayı başarmış ve galibiyetimizin en önemli öznelerinden biri olmuş efendi futbol insanı...
+her mac vucudunun bir parcasini eline alan* 76 defans gorunumlu forvet oyuncusu yada tersi. ne biliim iste bi gol cikariyor bi gol atiyor ne oldugu belli degil.
+tek harf ile "?" olarak ifade edilebilecek olan standart metin duzenleyicisi. bash ile tek satirda implement edilebilir: while read; do echo ?; done (bkz: ed is the standard text editor) (bkz: qed)
+dizimax'de izlediğim 3 diziden biri **. normal hayatlara sahip karakterlerin hayatlarını ilginç yapan yönleri çok iyi gösterilmiş. ayrıca kendinizden bir parçayı ekranda görmeniz çok büyük bir olasılık.
+başkarakteri ed stevens'ın müthiş bir insan olduğu, dizimax'in en eğlenceli dizilerinden biri.
+(bkz: ed stevens)
+oldukca siradan ve basit denebilecek, onca entel dizinin arasinda sırıtan bir dizi. fakat bütün olay bu noktada başlıyor. bu sıradanlığı sevmeden edemiyor, izlemek için sabırsızlanıyorsunuz çünkü anlatılan sizin bir parçanız olan veya parçanız olmasını istediğiniz şeyler. karakterlerin de çok sevimli olmasi göz ardı edilmemeli.
+64. bölümüyle sevenlerini çıldırtan, dizimax'in en iddasız, en sıradan ama en sıcak ve muhteşem hisleri yaşatan dizisi.
+sohbet ettikce mutlu etmeyi basaran adam.
+izlerken dinlendiğiniz tek dizi. millet kafayı aksyon ile, tempo ile o kadar bozmuş ki, bu dizi ilaç gibi. renkler güzel, konu basit, komik, izlemeye doyamıyor insan. lucid dreaming ile alakalı bölümü zirvedir gözümde.
+gecmis mubarek dogumgununu kutladigim hoja.
+küçük tansiyonu 6, büyük tansiyonu 12 maç sırasında tamath tansiyonu 52 olan, bal ne ki şeker ne ki kıvamında adam.
+elinden her iş gelen, becerikli süper kahraman.. ve hatta (bkz: supurmen)*
+bu adamla ne tuhaftir 16 agustos 1999 da tanismistik. bedenimde depremden daha fazla tahribata sebep olmustur. fc screenshavers da defansdaki sag kolum. beni yalniz birakmayan tek adam. ama king de cok sepet.
+uçucu madde... nedendir bilinmez. (bkz: anladın sen)
+4. nesil hortlak olarak geri dönmüştür, serhat ulueren başlığı kendisine kapalıdır bir de.
+pazar sabahlari arkadasimin beylikduzundeki evinde 3'te kalkip pespese onceki haftanin 3 bolumunu izlememe, akabinde gelen pazartesi bolumunu izleyip, isten yine arkadasimin evine donup sali sabahi 6'da sali gunku bolumunu seyrettikten ve haftanin geri kalani icin evime dondukten sonra pazar gunu sehrin merkezinden cikmama ve beylikduzune kadar butun o yolu tepip sabah yine 3'ten itibaren kendisini izlememe sebep olan; bagimlilik yaratici, sicak, sade, basit ve ote dizi. (bkz: oha) ed'i sevenlere tavsiye film (gerci bu depresif ve tutunamayan versiyonu ama): lonesome jim ed'i sevenlere tavsiye dizi: northern exposure
+(bkz: iyi huylu tatlı dilli kafa dengi sevgili)
+tolginho ile beraber esbpl.org un teknik altyapisindan sorumu devlet bakanidir.
+yeniden aramiza dosnmus suzerstar hayati boyunca telegol seyredemeyecek olmasi buyuk kayip
+arada bikac bolumu atlamis olsam da "trapped" isimli 52. bolumunde ed'in karakter disi davranislarinin gercekciligi hafiften kaydirdigini, senaryo uzatma amacli durdugunu belirtmek gereken dizi.
+erke dönergeci hakkında dahiyane fikir üretme butonu olarak op'un yanına eklenmesini beklediğim buton. (bkz: mortifera donergeci/@ssg)
+bu yaşlı adamı sevmeyeyim de kimi seveyim diye ince ince düşüncelere yelken açtıran iyi insan.. güzel yorumlarıyla olsun, esbpl'deki renkli yorumlarıyla olsun sevdiğimiz kaptandır.
+eğer bir projektörünüz, 3 laptopunuz, bir filmden iki kopyanız , son dakikaya kadar gelmeyen bir ses sisteminiz var ise bu çorbanın tadını verecek tuz kadar önemli şahsiyettir ! * * . her film zirvesinde yanınızda bulundurmanız gereken süper kahraman hatta. **
+esref abidir bizim mahalleden... radyodaki incesaz hesaabi - dunya diyorum! nereye gidiyor! - o kolay yau!
+dizimax'de ikinci kez yayınlanan sevimli dizi. yanlız ed stevens'ın carol vessey (galiba soyadı buydu) denilen şahısa bu kadar katlanmasını kınıyorum. hatunun kaprislerine göre sırasıyla şunlar oldu: --- spoiler --- 1. uzunca bir süre ed'le, sen lisedeki kıza aşıksın bana değil diyip birlikte olmak istemedi. 2. dennis denilen arkadaşla evlenme kararı aldığında ed'in destek vermemesine bozuldu. 3. tam ed, frankie diye bir kızla mutlu olacaktı, o işi de bozdu. 4. en sonunda birlikte olmaya başladılar (illa ki esas kızla esas oğlan birlikte olmak zorunda olduğu ve alternatif insanlar hep şutlandığı için) bu sefer yıllar sonra yazar olma hayalinin peşinden gitmeye karar verdi. ed'den onunla birlikte new york'a taşınmasını istedi. 5. adam uğraşıp her şeyi paketlemişken bu sefer ağlamaklı bir sesle ben noel isterim ağaç isterim dedi. ed uğraştı didindi, bütün kolileri sevimli büyük hediyeler haline getirdi. carol abla noel hediyesi olarak gitmemeye karar verdiğini ve stuckeyville'de kalmak istediğini yumurtladı. 6. evlenmeye karar verdiler, carol önce düğün istemem dedi. las vegas'a gidelim kaçalım bu diyarlardan bunalımına girdi. son dakkada yine karar değiştirdi, ayy düğün yapalım nolur noooolur diye tutturdu. --- spoiler --- bundan sonrasını ilk gösterimde izleyememiştim. büyük bir merakla carol vessey psikozlu şahsının yeni bombalarını beklemekteyim. yanlış anlaşılmasın, bence dizi süper ve bazı yönleriyle her insanın başına gelebilecek bir hayatı anlatıyor, ve fakat hiçbir insan evladı hayatının aşkına bile bu kadar katlanamaz. hatun sadece sorun yaratmakla meşgul, kararsız bir kişi. belki bir türk olarak düşündüğüm için ters geliyor ama şöyle bir genelleme yapmak yanlış olmaz umarım; en azından hiçbir türk erkeğinin carol vessey tadında bir kadına ed stevens kadar uzun süre katlanması ya da sadık kalması mümkün değil diye düşünüyorum!
+dün çise tuttugum insan.*
+inanilmaz tüy topagi bir oglusu olan badimdir.
+üç yüz tane birbirinden minnis kedisi olan badisim.
+yıllar önce izini kaybettiğim fakat yakın zamanda tekrar karşıma çıkan kirvem
+seri espiri üreticisi, laf sokma ve hiciv ustası. herşeyden öte nerde ne yapılır'ı bilen, olgun bir beyefendi.
+digiturk dergisi bizi kandırmıyorsa bugünden itibaren hafta içi her gün dizimax'te 17:00'de yine yeni yeniden izleyebileceğimiz sıcacık yumuşacık sedatif domestik dizi.
+penceremin altında serenad yaparken apartmanın kapıcısına yakalanıp kaçan suser.
+yüksek yerlerdeki bağlantıları sayesinde eşşek kadar lcd monitörü piyasa fiyatlarının çok altında bir para ödeyerek sahip olmamı sağlamış adamdır..
+kendisine "gel bili bili" demek farzdır, eylemdir, cümledir, yüklemdir...
+kompiter bileşenleri ile ilgili olaraktan sorduğumuz bin türlü soruya sıkılmadan (en azından çaktırmadan*) verdiği cevaplarla hiç bir zaman yardımını esirgemeyen, ayrıca gerek saha içi gerek saha dışı muhabbetiyle olsun sevdiğimiz harbi bir abimizidir.
+ortamlarda muhabbetin cıvıdığı* anda birdenbire abileşerek bendenizi derleyip toparlayan; sorularımı, sorunlarımı yanıtsız* bırakmayan pek sevdiğim canımdır.
+erectile dysfunction'in kisaltmasi. turkcesi ereksiyon problemi, ku$un kalkmamasi, horozun otmemesidir. allah korusundur, kimsenin basina vermesindir.
+nicki ile müsemma
+adı soyadı ile çok çekmiş (bkz: #8956598) bu yetmezmiş gibi artık nick'i ile de (bkz: #10945853) madara olmuş suser kişisi.
+uzun zaman mucadele ettigi alkolun etkisinden bir turlu kurtulamayacagini anlayinca kendini tekrardan alkole veren alcoholic...... bir feti okuroglu bir kadar kaprissiz , ercan kologlu kadar alcakgonullu yapisiyla alc kripton camiasina uzun zaman hizmet edecek zeki, cevik ve ahlakli defans oyunucusu.. (bkz: yuvaya donus) (bkz: baskanim beni al)
+çok kibar bir insanmış kendisi. (bkz: ben bugün bunu gördüm)
+gün itibariyle "geyik aşısı" olduğunu iddia etmekte.. oysa iddianın şekline bakacak olursak, sözkonusu aşıyı benim olmam gerekiyormuş yahu!*
+söyledikleri bir bir çıkan mübarek insan. *
+her pazar arena*ya gelişi bile mutlu etmeye yeten. adamın bir şey yapmasına gerek yok, yüzünü görüyorum keyfim yerine geliyor yemin ederim.
+candan, canandan daha can olan, efendi, züper kişilik. kendisini pek bi severim, kankamdan ayrı komam. eş zamanlı olarak da ortağım olur defansta. örnek alırım kendisini kendime faulsüz yırtıcı olabilmek için. ancak tabi kendisinin alerjik sıkıntıları olmadığından form düşüklüğü yaşamamasını çok kıskanırım, o ayrı.
+tom morello ve charlesbukowski kişileri taksim’de bir mekana gider. canları sıkılır. buko’nun aklına bir fikir gelir. tom kişisinden oyunculuğunu kullanmasını ister. ve ed telefonla aranır; tm: abi selamlar, naber nası gidio ed: iyidir koç, senden naber tm: buko’ylayız da, sana bi işimiz düştü abi ed: emret canım tm: yaa abi bi mekandayız da, iki tane hatun düşürdük ama gidecek yerimiz yok, hatunlar da taş gibi, hani kaçırmayalım diyoruz. aklımıza da sen geldin, sizin evi kullanabilir miyiz bu gece diyecektim ed: ehe ehe ehe (klasik ed gülüşü) tm: ne diyorsun abi ed: yok olmaz kardeşim tm: yap bi ağabeylik bize be ed: cidden olmaz, hadi size iyi çalışmalar tm: saolasın bundan yaklaşık 20 dakika sonra. yine ed’in telefonu çalar; tm: aloo abi yine rahatsız ediyorum kusura bakma ed: noldu yine tm: abi biz sağa sola bakıyoruz da, hani en yakınımızda sen varsın, hatunlar da sıkılmaya başladı, gidecekler neredeyse ed: kardeşim olmaz dedim tm: senin araba kapıda mı ed: evet kapıda tm: hehh, anahtarları bize versen diyoruz ed: ya manyak mısınız olm siz, işiniz mi yok tm: abi iyi bakarız arabaya sen rahat ol ed: hadi kardeşim hadi, başka kapıya derken bir 10 dakika sonra; tm: aloooo ağabeycim iyi geceler ed: yine ne var lan tm: abi kızma yaa, kusura bakma tekrar da ed: söyle tm: abi kızlar üç oldu. hani diyoruz birini de sana yapsak ed: ulan gece gece parayla mı verdiler sizi bana tm: abi kızma ya, baba adamsın yaparsın bişiler, aklımıza bi tek sen geldin ed: yatıcam ben kardeşim, anladınız mı ya-tı-cam tm: tamam abi yaa kızma ed: !é%&+%&(/&(‘^’ ve bir yıldan uzun süre olmasına rağmen hala ed kişisi bu diyalogları gerçek sanıyor… *
+gün itibariyle üniversite mezunu mertebesine ermiş kişidir. ps3 de hak etmiştir, her şeyi de hak etmiştir.
+birkaç sene boyunca ekmeğini yiyeceğine inandığım 29* yaşına duhul etmiş canciş badimdir. hayırlısıyla bu akşam "neredesin sen hayırsız" dayağımı da ellerinden yiyeceğimdir.
+iyi ki doğmuş olandır...
+abimden yaşça küçük bu adam, ne var ki kendisine duyduğum sevgi hem abisel bağlarla hem de dost duygularla karışık ve ardışık. bu yüzden de hep sevilmiştir herhalde şahsımızca, çok fazla nedene gerek duymadan, daha da önemlisi o nedenlerle ilgili arayışlara hiç girmeye mahal vermeksizin. radar'da kalbimize de +1 yazan volkan'ıyla minderlerde mi yuvarlanmadık, hayaller mi kurmadık, planlar mı yapmadık... esbpl şahane ortamında top mu tepmedik, zirvelere mi konmadık... bir de şimdi yanına bruco diye bir doğan yıldız almış, birlikte ne de güzel parlıyorlar. yakında askere de gidecek, aslanlar gibi gelecek. iyi ki varmış, iyi ki tanımışız. muhabbet hastalığı gayet karşılıklı.
+sabah sabah mailinize bir televizyon görüntüsünün fotoğrafını yollayıp, mesai saati içersinde gülme krizi geçirmenize neden olan insan... kendinizi zan altında hissettirir bir de, "abi valla ben yapmadım" deme ihtiyacı duyarsınız. sizi gizli projelerine dahil eder, sonrasında da radyoda romantik bir aşk oyunu dinlermişsiniz gibi hikayesini dinlersiniz heyecanla, en heyecanlı noktalarda reklam arası bile verir hatta... mutluluğu içimi ısıtmış bir adamdır kendisi... hani "abi" diye seslendiğiniz bir kuzeniniz vardır ya, işte öyle bir şey.
+süpriz insanı, mutluluk hormonu, ağlama duvarı, yanıbaşımdaki omuz, sabır taşı*, bi'tane...
+çarşı yoldaşı, askerlik arkadaşı, müstakbel aile dostu. dalışta buddy bile olunur, o derece.
+kendisi haftasonu evci çıkmasıyla birlikte kışlada beni de ziyaret ederek sürpriz yapmış, mutlu etmiş devremdir.
+an itibariyle gelibolu 18. mekanize piyade tugayı er ve erbaş gazinosu moral gecesinde darbukasıyla coşturan, torunu olduğum yazardır.
+update insanıdır. hatta bizzat hayatımın update'idir.
+erding'in plaka kodu.
+birkaç haftadır hafta içi her gün tnt'de gösterilmeye başlanan sevimli dizi. party of five'ın arkasından 13:30 civarında başlıyor. dublajlı da olsa ikisi arka arkaya sıkıcı yaz ekranını bir nebze olsun güzelleştirip 2 saatin geçmesini sağlıyor.
+(bkz: encyclopedia dramatica)
+kurtarıcı melek'im o benim, annesi benim için doğurmuş sanki...
+(bkz: ed westwick) *
+taktik uzmanı.. (bkz: #22340390)
+ing. ks. engineer doctor. (bkz: mühendis doktor)
+çok çalışan insan modeli. yüzünü gören cennetlik. buradan seslenmek istiyorum : - eve uğra azcık :)
+kendi gücüm yetmeyince para verip ağzını burnunu kırdırttığım zat-ı şahane. bacağını da kırdırtacaktım ama hepten sakat bırakmak istemedim. yavaş yavaş*... *
+5 senedir hayatımı değiştiren, güzelleştiren, kolaylaştıran koca kişisi. iyi ki var, iyi ki benim*.
+dia marketler zincirinin fransa'daki adı. sembolü aynı. hatta içeride üzeri türkçe yazılı ürünler bile bulabilirsiniz.

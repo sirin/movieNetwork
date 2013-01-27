@@ -1,0 +1,1 @@
+seven card stud'un 5 kagitla oynanani. seven card stud ile ayni kurallara sahiptir. sadece kagit dagilimi "2 kapali - 2 acik - 1 kapali" olarak gerceklesir. ayni anda 10 oyuncuyla oynanabilir.
