@@ -72,19 +72,19 @@ public class Main {
 		URL url = null;
 		try {
 			uri = new URI(
-				    "http", 
-				    "beta.eksisozluk.com", 
-				    "/" + title,
-				    null);
+                          "http",
+                          "beta.eksisozluk.com",
+                          "/",
+                          "q=" + title.replace(" ", "+"),
+                          null);
+			
 			url = uri.toURL();
+			System.out.println(url);
 		} catch (URISyntaxException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-			
 		URLConnection con;
 		try {
 			con = url.openConnection();
@@ -93,10 +93,8 @@ public class Main {
 			titleURL = con.getURL();
 			is.close();
 		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return titleURL;
